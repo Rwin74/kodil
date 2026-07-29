@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import Image from 'next/image'
 import { useRef } from 'react'
@@ -103,7 +103,7 @@ export function Hero() {
             className="absolute right-0 top-0 h-[22rem] w-[78%] overflow-hidden rounded-[40%_60%_58%_42%/48%_42%_58%_52%] shadow-[0_40px_80px_-30px_rgba(30,41,90,0.45)] sm:h-[28rem]"
           >
             <Image
-              src="/images/kocaeli-dil-ve-konusma-terapisi-merkezi-oyun-odasi.jpeg"
+              src="/images/kocaeli-dil-ve-konusma-terapisi-merkezi-oyun-odasi.webp"
               alt="Kocaeli dil ve konuşma terapisti merkezimizde sıcak ve güvenli bir terapi odası"
               fill
               priority
@@ -117,7 +117,7 @@ export function Hero() {
             className="absolute bottom-0 left-0 h-32 w-40 overflow-hidden rounded-[58%_42%_45%_55%/55%_50%_50%_45%] shadow-[0_30px_60px_-25px_rgba(30,41,90,0.5)] ring-4 ring-background sm:h-56 sm:w-64"
           >
             <Image
-              src="/images/kocaeli-cocuk-dil-terapisti-seansi.jpeg"
+              src="/images/kocaeli-cocuk-dil-terapisti-seansi.webp"
               alt="Kocaeli dil terapisi seansında çocuklarla ebeveyn odaklı yaklaşım"
               fill
               priority

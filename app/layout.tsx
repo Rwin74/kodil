@@ -1,4 +1,4 @@
-import { Analytics } from '@vercel/analytics/next'
+﻿import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import { Fraunces, Manrope } from 'next/font/google'
 import { SmoothScroll } from '@/components/smooth-scroll'
@@ -70,9 +70,9 @@ export const metadata: Metadata = {
     description: 'Kocaeli dil ve konuşma terapisti arayışınızda uzman kadromuzla yanınızdayız. KODİL; apraksi, duyusal hassasiyet, duyu bütünleme ve konuşma bozuklukları alanında Kocaeli dil terapisti arayan aileler için en güvenilir çocuk odaklı gelişim merkezidir.',
   },
   icons: {
-    icon: '/images/favicon.png',
-    shortcut: '/images/favicon.png',
-    apple: '/images/favicon.png',
+    icon: '/images/favicon.webp',
+    shortcut: '/images/favicon.webp',
+    apple: '/images/favicon.webp',
   },
 }
 

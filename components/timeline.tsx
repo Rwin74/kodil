@@ -1,4 +1,4 @@
-"use client"
+﻿"use client"
 
 import { useRef } from "react"
 import Image from "next/image"
@@ -82,7 +82,7 @@ export function Timeline() {
             <div className="sticky top-24">
               <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] rounded-tr-[6rem]">
                 <Image
-                  src="/images/play-nook.png"
+                  src="/images/play-nook.webp"
                   alt="KODİL merkezinde sıcak bir oyun ve dinlenme köşesi"
                   fill
                   className="object-cover"

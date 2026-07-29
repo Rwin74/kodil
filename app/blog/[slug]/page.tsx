@@ -1,4 +1,4 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { articles } from '@/lib/articles'
 import { ArrowLeft } from 'lucide-react'
@@ -64,7 +64,7 @@ export default async function ArticlePage({ params }: Props) {
       name: 'KODİL',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://kocaelidilvekonusma.com/images/logo.png',
+        url: 'https://kocaelidilvekonusma.com/images/logo.webp',
       },
     },
   }

@@ -1,11 +1,11 @@
-export function JsonLd() {
+﻿export function JsonLd() {
   const clinicData = {
     '@context': 'https://schema.org',
     '@type': 'MedicalClinic',
     name: 'KODİL — Kocaeli Dil ve Konuşma Terapisi Merkezi',
     alternateName: 'Kocaeli Dil ve Konuşma Terapisti',
     url: 'https://kocaelidilvekonusma.com',
-    logo: 'https://kocaelidilvekonusma.com/images/logo.png',
+    logo: 'https://kocaelidilvekonusma.com/images/logo.webp',
     description: 'En iyi Kocaeli dil ve konuşma terapisti uzmanlarımızla yanınızdayız. KODİL, apraksi, duyusal hassasiyet, duyu bütünleme ve konuşma bozuklukları için çocuk odaklı gelişim merkezidir.',
     keywords: 'kocaeli dil ve konuşma, kocaeli dil ve konuşma terapisti, kocaeli dil terapisti, kocaeli ergoterapi',
     address: {

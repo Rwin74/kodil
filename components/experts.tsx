@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import Image from 'next/image'
 import { motion } from 'framer-motion'
@@ -8,7 +8,7 @@ const experts = [
   {
     name: 'Nergis DENİZCİ CEYLAN',
     role: 'Kurucu - Dil ve Konuşma Terapisti',
-    image: '/images/team/nergis-denizci-ceylan-dil-ve-konusma-terapisti.png',
+    image: '/images/team/nergis-denizci-ceylan-dil-ve-konusma-terapisti.webp',
     years: 8,
     tags: ['Dil Terapisi', 'Erken Müdahale'],
     accent: 'var(--orange)',
@@ -16,7 +16,7 @@ const experts = [
   {
     name: 'Enes CEYLAN',
     role: 'Uzm. Dil ve Konuşma Terapisti',
-    image: '/images/team/enes-ceylan-uzman-dil-ve-konusma-terapisti.jpg',
+    image: '/images/team/enes-ceylan-uzman-dil-ve-konusma-terapisti.webp',
     years: 6,
     tags: ['Kekemelik', 'Artikülasyon Bozuklukları'],
     accent: 'var(--navy)',
@@ -24,7 +24,7 @@ const experts = [
   {
     name: 'Nurşah YARDIMCI',
     role: 'Uzm. Dil ve Konuşma Terapisti',
-    image: '/images/team/nursah-yardimci-uzman-dil-ve-konusma-terapisti.png',
+    image: '/images/team/nursah-yardimci-uzman-dil-ve-konusma-terapisti.webp',
     years: 5,
     tags: ['Konuşma Gecikmesi', 'Ses Terapisi'],
     accent: 'var(--turquoise)',
@@ -32,7 +32,7 @@ const experts = [
   {
     name: 'Buğra CEYLAN',
     role: 'Dil ve Konuşma Terapisti',
-    image: '/images/team/bugra-ceylan-dil-ve-konusma-terapisti.jpeg',
+    image: '/images/team/bugra-ceylan-dil-ve-konusma-terapisti.webp',
     years: 4,
     tags: ['Floortime 201 Terapisi', 'Artikülasyon Terapisi'],
     accent: 'var(--navy)',
@@ -48,7 +48,7 @@ const experts = [
   {
     name: 'Gökşen KARATAŞ',
     role: 'Psikolog',
-    image: '/images/team/goksen-karatas-psikolog.jpg',
+    image: '/images/team/goksen-karatas-psikolog.webp',
     years: 3,
     tags: ['Floortime 202 Terapisi', 'Deneyimsel Oyun Terapisi'],
     accent: 'var(--orange)',
