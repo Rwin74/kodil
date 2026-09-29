@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788281915834,
+      "tag": "0000_phase_2_initial_content_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788391260093,
+      "tag": "0001_phase_3_admin_auth",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1788440120634,
+      "tag": "0002_phase_4_content_workflows",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1788440412770,
+      "tag": "0003_phase_4_working_copies",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1788442223256,
+      "tag": "0004_phase_4_reviewer_identity",
+      "breakpoints": true
+    }
+  ]
+}

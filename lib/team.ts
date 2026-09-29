@@ -1,3 +1,8 @@
+import { absoluteUrl } from '@/lib/site'
+export type VerifiedEducation = { credential: string; institution: string; field?: string; sourceUrl: string; verifiedIsoDate: string }
+export type VerifiedExpertise = { name: string; sourceUrl: string; verifiedIsoDate: string }
+export type VerifiedExternalProfile = { kind: 'linkedin' | 'professional-association' | 'institutional-directory' | 'wikidata'; label: string; url: string; verifiedIsoDate: string; verificationReference: string }
+
 export type TeamMember = {
   slug: string
   name: string
@@ -5,6 +10,10 @@ export type TeamMember = {
   image: string
   accent: string
   profileText: string
+  bio?: string
+  verifiedEducation?: readonly VerifiedEducation[]
+  verifiedExpertise?: readonly VerifiedExpertise[]
+  verifiedExternalProfiles?: readonly VerifiedExternalProfile[]
 }
 
 export const teamMembers: TeamMember[] = [
@@ -76,4 +85,14 @@ export const teamMembers: TeamMember[] = [
 
 export function getTeamMember(slug: string) {
   return teamMembers.find((member) => member.slug === slug)
+}
+
+export function teamProfilePath(member: Pick<TeamMember, 'slug'>) {
+  return `/ekibimiz/${member.slug}`
+}
+export function personId(member: Pick<TeamMember, 'slug'>) {
+  return `${absoluteUrl(teamProfilePath(member))}#person`
+}
+export function hasVerifiedExpertise(member: TeamMember) {
+  return (member.verifiedExpertise ?? []).length > 0
 }

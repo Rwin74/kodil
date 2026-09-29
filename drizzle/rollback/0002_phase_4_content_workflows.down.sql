@@ -1,0 +1,11 @@
+ALTER TABLE `editorial_reviews` DROP FOREIGN KEY `editorial_reviews_decided_by_user_id_users_id_fk`;
+ALTER TABLE `editorial_reviews` DROP COLUMN `decided_by_user_id`;
+ALTER TABLE `sources` DROP COLUMN `evidence_reference`;
+ALTER TABLE `posts` DROP COLUMN `scheduled_at`;
+ALTER TABLE `media` DROP COLUMN `permission_evidence_reference`;
+ALTER TABLE `media` DROP COLUMN `permission_status`;
+ALTER TABLE `media` DROP COLUMN `rights_evidence_reference`;
+ALTER TABLE `media` DROP COLUMN `avif_storage_key`;
+ALTER TABLE `media` DROP COLUMN `webp_storage_key`;
+ALTER TABLE `media` DROP COLUMN `original_storage_key`;
+ALTER TABLE `media` DROP COLUMN `original_filename`;
