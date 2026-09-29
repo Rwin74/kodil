@@ -2,7 +2,8 @@
   const clinicData = {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
-    name: 'KODİL Kocaeli Dil, Konuşma ve Ergoterapi Merkezi',
+    name: 'Kocaeli Dil, Konuşma ve Ergoterapi Merkezi',
+    alternateName: 'KODİL',
     url: 'https://kocaelidilvekonusma.com',
     logo: 'https://kocaelidilvekonusma.com/images/logo.webp',
     description: 'Kartepe, Kocaeli’de dil ve konuşma terapisi ile ergoterapi alanlarında çalışan merkez.',
