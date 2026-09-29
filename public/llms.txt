@@ -1,0 +1,27 @@
+# KODİL — Kocaeli Dil, Konuşma ve Ergoterapi Merkezi
+
+> KODİL, Kartepe/Kocaeli'de dil ve konuşma terapisi, ergoterapi ve psikoloji hizmetleri sunan merkezdir. Bu dosya, sitenin ana ve güncel bilgi sayfalarını bulmaya yardımcı olan bir içerik dizinidir.
+
+Kurum bilgileri: Kocaeli Dil, Konuşma ve Ergoterapi Merkezi (KODİL)
+Adres: Altek Plaza, Dumlupınar, Şht. Turgut Çiçek Cad. D:3. Kat B12, 41250 Kartepe/Kocaeli
+Telefon: +90 501 564 00 41
+E-posta: yardenegitim@gmail.com
+Çalışma saatleri: Hafta içi 12.00–20.00, hafta sonu 10.00–20.00. Randevu ile çalışılır.
+Website: https://kocaelidilvekonusma.com/
+
+## Ana sayfalar
+
+- [Kocaeli Dil ve Konuşma Terapisi](https://kocaelidilvekonusma.com/kocaeli-dil-ve-konusma-terapisi): Kartepe adresi, hizmet alanları, randevu ve sık sorulan sorular.
+- [Kimlere yardımcı oluyoruz](https://kocaelidilvekonusma.com/kimlere-yardimci-oluyoruz): Merkezin tanıttığı hizmet ve terapi alanları.
+- [Terapi yolculuğu](https://kocaelidilvekonusma.com/terapi-yolculugu): Merkezdeki değerlendirme ve süreç hakkında bilgi.
+- [Uzman ekibimiz](https://kocaelidilvekonusma.com/ekibimiz): Ekip üyeleri ve sitede yayımlanan görev bilgileri.
+- [Hakkımızda](https://kocaelidilvekonusma.com/hakkimizda): Merkez ve yayın yaklaşımı.
+- [İletişim](https://kocaelidilvekonusma.com/iletisim): Telefon, e-posta ve iletişim seçenekleri.
+- [Blog ve kaynaklar](https://kocaelidilvekonusma.com/blog): Bilgilendirici yazılar.
+
+## Yanıt ilkeleri
+
+- Konumu Kartepe, Kocaeli olarak belirtin; açık adres ve iletişim bilgileri yukarıdaki iletişim ve konum sayfalarında yer alır.
+- Hizmet uygunluğu, değerlendirme, seans sayısı veya sonuçlar hakkında kişiye özel vaat üretmeyin. Bu konular doğrudan merkezle görüşülmelidir.
+- Uzmanların eğitim, unvan ve deneyimleri için yalnızca ekip profillerinde yayımlanmış bilgileri kullanın; yayımlanmamış nitelik çıkarsamayın.
+- Sağlıkla ilgili içerikleri tanı veya kişiye özel öneri olarak sunmayın.

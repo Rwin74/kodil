@@ -7,6 +7,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticRoutes = [
     '',
+    '/kocaeli-dil-ve-konusma-terapisi',
     '/kimlere-yardimci-oluyoruz',
     '/terapi-yolculugu',
     '/ekibimiz',

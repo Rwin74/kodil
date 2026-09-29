@@ -42,6 +42,7 @@ const FacebookIcon = ({ className }: { className?: string }) => (
 export function SiteFooter() {
   const quickLinks = [
     { label: "Anasayfa", href: "/" },
+    { label: "Kocaeli Dil ve Konuşma Terapisi", href: "/kocaeli-dil-ve-konusma-terapisi" },
     { label: "Ekibimiz", href: "/ekibimiz" },
     { label: "Blog & Kaynaklar", href: "/blog" },
     { label: "Kimlere Yardımcı Oluyoruz?", href: "/kimlere-yardimci-oluyoruz" },

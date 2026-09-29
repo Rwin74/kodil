@@ -82,7 +82,7 @@ export function Contact() {
     const message = formData.get('message')
     
     const body = `İsim: ${name}\nTelefon: ${phone}\nE-posta: ${email}\n\nMesaj:\n${message}`
-    window.location.href = `mailto:ceylanenes29@gmail.com?subject=Kodil İletişim Formu Mesajı&body=${encodeURIComponent(body)}`
+    window.location.href = `mailto:yardenegitim@gmail.com?subject=Kodil İletişim Formu Mesajı&body=${encodeURIComponent(body)}`
     
     setSent(true)
   }
