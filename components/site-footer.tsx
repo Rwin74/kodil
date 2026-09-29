@@ -76,7 +76,7 @@ export function SiteFooter() {
               />
             </Link>
             <p className="mt-6 text-sm leading-relaxed text-muted-foreground">
-              En iyi Kocaeli dil ve konuşma terapisti uzmanlarımızla, her sese değer veren çocuk odaklı bir gelişim merkezi.
+              Kartepe, Kocaeli’de dil ve konuşma terapisi ile ergoterapi alanlarında çalışan merkezimiz ve ekibimiz hakkında bilgi alın.
             </p>
             <div className="mt-8 flex gap-4">
               <a href="https://www.instagram.com/kocaelidilkonusmamerkezi/" target="_blank" rel="noreferrer" className="flex h-10 w-10 items-center justify-center rounded-full bg-secondary/5 text-secondary transition-colors hover:bg-primary hover:text-white">

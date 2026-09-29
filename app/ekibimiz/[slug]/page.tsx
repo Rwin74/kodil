@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const member = getTeamMember(slug)
   if (!member) return {}
   return {
-    title: `${member.name} | KODİL Ekip Profili`,
+    title: `${member.name} | Ekip Profili`,
     description: `${member.name}, KODİL ekibinde ${member.role.toLocaleLowerCase('tr-TR')} olarak yer alır.`,
     alternates: { canonical: `/ekibimiz/${member.slug}` },
   }

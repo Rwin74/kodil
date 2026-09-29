@@ -3,7 +3,7 @@ import { Experts } from '@/components/experts'
 import { NextStep } from '@/components/next-step'
 
 export const metadata: Metadata = {
-  title: 'Uzman Kadromuz | Ekibimiz',
+  title: 'Ekibimiz',
   description: 'KODİL ekibini, görevlerini ve ayrı kişi profillerini tanıyın. Eğitim ve uzmanlık bilgileri yalnızca doğrulanmış kaynaklarla yayımlanır.',
   alternates: {
     canonical: '/ekibimiz',

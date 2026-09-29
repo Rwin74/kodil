@@ -24,40 +24,17 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   metadataBase: new URL('https://kocaelidilvekonusma.com'),
   title: {
-    default: 'Kocaeli Dil ve Konuşma Terapisti | KODİL Ergoterapi Merkezi',
+    default: 'Kocaeli Dil ve Konuşma Terapisi | Kartepe - KODİL',
     template: '%s | KODİL',
   },
   description:
     'KODİL; Kocaeli’de dil ve konuşma terapisi, ergoterapi ve çocuk odaklı gelişim alanlarında ekip, süreç ve iletişim bilgileri sunar.',
   generator: 'v0.app',
-  keywords: [
-    'kocaeli dil ve konuşma terapisti',
-    'kocaeli dil ve konuşma',
-    'kocaeli dil terapisti',
-    'kocaeli konuşma terapisti',
-    'kocaeli çocuk dil terapisti',
-    'kocaeli en iyi dil ve konuşma terapisti',
-    'apraksi',
-    'apraksi nedir',
-    'duyusal hassasiyet',
-    'duyusal hassasiyet nedir',
-    'granülom nedir',
-    'duyu hassasiyeti',
-    'duyu hassasiyeti nedir',
-    'dil edinimi ne zaman başlar',
-    'hassasiyet nedir',
-    'kocaeli ergoterapi',
-    'kocaeli dil konuşma',
-    'çocuk gelişimi kocaeli'
-  ],
   alternates: {
     canonical: '/',
-    languages: {
-      'tr-TR': '/tr-TR',
-    },
   },
   openGraph: {
-    title: 'Kocaeli Dil ve Konuşma Terapisti | KODİL Ergoterapi Merkezi',
+    title: 'Kocaeli Dil ve Konuşma Terapisi | Kartepe - KODİL',
     description: 'KODİL; Kocaeli’de dil ve konuşma terapisi, ergoterapi ve çocuk odaklı gelişim alanlarında ekip, süreç ve iletişim bilgileri sunar.',
     url: 'https://kocaelidilvekonusma.com',
     siteName: 'KODİL',
@@ -66,7 +43,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Kocaeli Dil ve Konuşma Terapisti | KODİL Ergoterapi Merkezi',
+    title: 'Kocaeli Dil ve Konuşma Terapisi | Kartepe - KODİL',
     description: 'KODİL; Kocaeli’de dil ve konuşma terapisi, ergoterapi ve çocuk odaklı gelişim alanlarında ekip, süreç ve iletişim bilgileri sunar.',
   },
   icons: {
