@@ -14,22 +14,22 @@ export const articles: Article[] = [
     id: '1',
     slug: 'kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale',
     title: 'Kocaeli Dil ve Konuşma Terapisti: Neden Erken Müdahale?',
-    excerpt: 'Kocaeli dil ve konuşma terapisti uzmanlarımız anlatıyor: Çocuğunuzun dil ve konuşma gelişiminde erken müdahalenin kritik önemi nedir?',
+    excerpt: 'Çocuğunuzun dil ve iletişim gelişimiyle ilgili kaygınız varsa neler yapabilirsiniz? Kocaeli’de dil ve konuşma terapisi değerlendirmesi hakkında bilgi.',
     category: 'Dil Terapisi',
     date: '15 Tem 2026',
     keywords: ['kocaeli dil ve konuşma terapisti', 'kocaeli dil terapisti', 'erken müdahale', 'dil ve konuşma terapisi kocaeli'],
     content: `
-Kocaeli dil ve konuşma terapisti arayışında olan ebeveynlerin en çok merak ettiği konuların başında "Erken müdahale gerçekten gerekli mi?" sorusu gelmektedir. KODİL olarak, çocukların dil gelişiminde erken dönemde atılan adımların, gelecekteki akademik ve sosyal hayatları üzerinde dönüştürücü bir etkiye sahip olduğunu gözlemliyoruz.
+Çocuğunuzun konuşma veya dili anlama becerileriyle ilgili kaygınız varsa bunu çocuğunuzun doktoruyla paylaşın. Çocukların gelişim hızı farklıdır; çevrimiçi bir yazı ya da gelişim basamağı listesi tanı koyamaz. CDC, ailelerin kaygılarını doktorla paylaşmasını ve gerektiğinde gelişim taraması ya da ileri değerlendirme istemesini önerir.
 
-### Dil ve Konuşma Gelişiminde Kritik Pencereler
-Çocukların beyin gelişimi özellikle ilk 3 yılda muazzam bir hızla ilerler. Bu dönem, "[dil edinimi ne zaman başlar](/blog/dil-edinimi-ne-zaman-baslar)" sorusunun da en kritik yanıtını barındırır. Eğer çocuğunuz 2 yaşına geldiği halde hiç kelime üretmiyor veya söyledikleri aile dışındaki bireyler tarafından anlaşılmıyorsa, Kocaeli dil ve konuşma terapisti uzmanlarımızla [iletişime geçmeniz](/iletisim) faydalı olacaktır.
+### İlk olarak ne yapabilirsiniz?
+Çocuğunuzun doktoruna hangi durumların sizi kaygılandırdığını örneklerle anlatın. İsterseniz gözlemlerinizi ve çocuğunuzun günlük iletişiminden örnekleri not edin. Doktor, gelişim taraması veya başka bir uzman değerlendirmesi gerekip gerekmediğini sizinle görüşebilir. Dil ve konuşma terapisti de çocuğun iletişim, dili anlama ve dili kullanma becerilerini değerlendirebilir.
 
-### Kocaeli Dil ve Konuşma Terapisti Olarak Yaklaşımımız
-KODİL'de çocuk odaklı bir yaklaşım benimsiyoruz. Her çocuğun gelişim hızı ve ihtiyaçları farklıdır. Sadece konuşma gecikmeleri değil, aynı zamanda artikülasyon bozuklukları, kekemelik, [apraksi](/blog/apraksi-nedir-belirtileri-ve-tedavisi) ve ses teli problemleri gibi pek çok alanda özel terapi programları hazırlıyoruz. "Kocaeli dil terapisti" alanındaki tecrübemiz, çocukların en doğal ortamlarında, oyun tabanlı yöntemlerle iletişim becerilerini artırmaya yöneliktir.
+### Kocaeli’de dil ve konuşma terapisti arıyorsanız
+KODİL, Kartepe/Kocaeli’de çocuk ve yetişkinler için dil ve konuşma terapisi hizmeti sunar. Görüşmede başvuru nedeni, değerlendirme süreci, hedefler ve randevu koşulları hakkında soru sorabilirsiniz. Her çocuğun ihtiyacı farklı olduğundan, uygun hizmet ve izlenecek yol bireysel değerlendirmeyle belirlenir.
 
-Bunun yanı sıra, konuşma gecikmesine eşlik eden farklı gelişimsel durumlar olabileceğini de unutmamak gerekir. Örneğin; çocuğunuzun sese veya dokunmaya karşı aşırı bir hassasiyeti varsa, konuşma terapisini desteklemek amacıyla [duyu bütünleme terapisine](/blog/duyusal-hassasiyet-ve-duyu-butunleme) ihtiyaç duyulabilir.
+Konuşma kaygısına başka gelişimsel veya sağlıkla ilgili gözlemler eşlik ediyorsa bunları çocuğunuzun doktoruyla paylaşın. Duyusal tepkiler çocuğun günlük yaşamını etkiliyorsa doktorla ve ergoterapi uzmanıyla ayrıca görüşülebilir; tek bir belirti belirli bir tanı veya hizmetin gerekli olduğunu göstermez.
 
-Unutmayın; beklemek yerine harekete geçmek, çocuğunuzun iletişim yolculuğundaki en değerli yatırımdır. Daha detaylı bilgi için [Ekibimiz](/ekibimiz) sayfasını inceleyebilir ve uzman kadromuzla tanışabilirsiniz.
+Genel aile bilgisi için [CDC’nin gelişiminden kaygı duyulan durumlara yönelik rehberini](https://www.cdc.gov/act-early/families/concerned.html) ve [ASHA’nın geç dil gelişimi değerlendirmesi hakkındaki açıklamasını](https://www.asha.org/Practice-Portal/Clinical-Topics/Late-Language-Emergence/) inceleyebilirsiniz. KODİL’in [ekip bilgileri](/ekibimiz), [Kartepe adresi ve randevu seçenekleri](/kocaeli-dil-ve-konusma-terapisi) de sitede yer alır.
     `
   },
   {
@@ -41,45 +41,33 @@ Unutmayın; beklemek yerine harekete geçmek, çocuğunuzun iletişim yolculuğu
     date: '10 Tem 2026',
     keywords: ['apraksi', 'apraksi nedir', 'konuşma apraksisi', 'apraksi tedavisi'],
     content: `
-Pek çok ebeveyn, çocuklarının kelimeleri anladığını fakat üretmekte zorlandığını fark ettiğinde "apraksi nedir" sorusunun cevabını aramaktadır. Apraksi, beynin kaslara doğru sinyalleri gönderememesi sonucu ortaya çıkan motor bir konuşma bozukluğudur. Çocuğun ne söylemek istediğini bilmesi ancak dudak, dil ve çene kaslarını doğru bir şekilde koordine edememesidir.
+Çocuğunuz konuşmakta zorlanıyor veya aynı sözcüğü farklı zamanlarda farklı söylüyorsa, bu gözlemler tek başına çocukluk çağı konuşma apraksisi tanısı koydurmaz. Konuşma üretimindeki güçlüklerin farklı nedenleri olabilir; değerlendirme için çocuk doktoruna ve dil ve konuşma terapistine danışın.
 
-### Apraksi Belirtileri Nelerdir?
-* Bebeklik döneminde daha az agulama veya babıldama (Konuyla ilgili [dil edinimi](/blog/dil-edinimi-ne-zaman-baslar) yazımızı okuyabilirsiniz)
-* İlk kelimelerin gecikmesi
-* Aynı kelimeyi her defasında farklı şekilde söyleme
-* Uzun kelimelerde hece atlama veya sesleri karıştırma
-* Konuşurken çaba sarf etme, yüz ve dudaklarda zorlanma ifadeleri
+### Değerlendirme nasıl ilerler?
+Dil ve konuşma terapisti çocuğun konuşma üretimini ve iletişim becerilerini değerlendirir; öykü, gözlem ve uygun değerlendirme araçlarını kullanabilir. İşitme veya genel gelişim hakkında kaygı varsa çocuk doktoruyla paylaşılmalıdır. Aileler [CDC gelişim rehberini](https://www.cdc.gov/act-early/families/concerned.html) ve [ASHA geç dil gelişimi açıklamasını](https://www.asha.org/Practice-Portal/Clinical-Topics/Late-Language-Emergence/) da inceleyebilir.
 
-### KODİL Apraksi Tedavisi
-[Kocaeli dil ve konuşma terapisti](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) merkezimizde, apraksi teşhisi konmuş veya şüphesi olan çocuklar için yoğun ve spesifik motor öğrenme prensiplerine dayalı terapiler uyguluyoruz. Apraksi terapisinde tekrar çok önemlidir. Kasların doğru hareket dizisini öğrenmesi için "Dokunma (PROMPT) teknikleri" ve görsel ipuçları kullanılır.
-
-Apraksisi olan çocuklar bazen çevresel uyaranlara karşı da farklı tepkiler geliştirebilir. Eğer çocuğunuzda dokunsal veya işitsel tepki farklılıkları gözlemliyorsanız, bir ergoterapist eşliğinde [duyusal hassasiyet değerlendirmesi](/blog/duyusal-hassasiyet-ve-duyu-butunleme) yapılması süreci oldukça hızlandıracaktır. Detaylı bilgi için [Terapi Yolculuğu](/terapi-yolculugu) sayfamıza göz atabilirsiniz.
+### Kocaeli’de nereden bilgi alınır?
+KODİL, Kartepe’de dil ve konuşma terapisi hizmeti sunar. Çocuğunuza uygun değerlendirme ve yaklaşım için randevu öncesinde merkezle görüşün; tanı veya sonuç garantisi çevrimiçi içerikten verilemez. Merkezin [ekibi ve yayımlanmış görev bilgileri](/ekibimiz), [adres ve iletişim bilgileri](/kocaeli-dil-ve-konusma-terapisi) incelenebilir.
     `
   },
   {
     id: '3',
     slug: 'duyusal-hassasiyet-ve-duyu-butunleme',
     title: 'Duyusal Hassasiyet Nedir? Duyu Bütünleme Terapisi',
-    excerpt: 'Duyusal hassasiyet nedir? Çocuğunuzun seslere, dokunuşlara veya tatlara aşırı tepki vermesinin altında yatan duyu bütünleme sorunları.',
+    excerpt: 'Ses, dokunma veya yemek dokularına verilen tepkiler çocuğun günlük yaşamını etkiliyorsa aileler hangi uzmanlarla görüşebilir? Kocaeli ergoterapi bilgisi.',
     category: 'Ergoterapi',
     date: '05 Tem 2026',
     keywords: ['duyusal hassasiyet', 'duyusal hassasiyet nedir', 'duyu hassasiyeti', 'duyu hassasiyeti nedir', 'hassasiyet nedir', 'duyu bütünleme'],
     content: `
-Duyusal hassasiyet (veya duyu hassasiyeti), beynin çevreden gelen duyusal bilgileri (ses, ışık, dokunma, tat) işleme ve anlamlandırma sürecinde yaşadığı zorluktur. Ebeveynlerin sıklıkla araştırdığı "duyusal hassasiyet nedir" sorusunun özünde, sinir sisteminin aşırı uyarılması yatar.
+Bazı çocuklar ses, ışık, dokunma, kıyafet veya yemek dokuları konusunda güçlü tercihler gösterebilir. Tek bir tepki, tanı veya “duyu bütünleme bozukluğu” olduğu anlamına gelmez. Öncelikle bu durumun çocuğun günlük yaşamına nasıl etki ettiğini gözlemleyin ve kaygınızı çocuk doktoruyla paylaşın.
 
-### Duyu Hassasiyeti Nedir ve Nasıl Gözlemlenir?
-Eğer çocuğunuz;
-* Belirli kıyafet etiketlerinden rahatsız oluyorsa,
-* Elektrikli süpürge veya saç kurutma makinesi sesinde kulaklarını kapatıyorsa,
-* Bazı yemek dokularını (pütürlü vs.) kesinlikle reddediyorsa,
-* Çıplak ayakla kuma veya çime basmaktan kaçınıyorsa duyusal hassasiyet yaşıyor olabilir.
+### Aileler neleri not edebilir?
+Hangi ses, dokunma, giysi veya yemek durumlarında zorlanma görüldüğünü; ne kadar sık olduğunu ve giyinme, yemek, oyun, uyku veya okul gibi günlük etkinliklere etkisini not edin. Bu gözlemler doktorla veya ilgili uzmanla yapılacak görüşmeye yardımcı olabilir.
 
-Duyusal hassasiyet problemleri sadece davranışsal değil, konuşma gelişimini de doğrudan etkileyebilir. Özellikle [apraksi](/blog/apraksi-nedir-belirtileri-ve-tedavisi) gibi konuşma bozukluklarında, ağız içi duyusal hassasiyet sıklıkla karşımıza çıkmaktadır.
+Bu gözlemler tek başına konuşma veya başka bir gelişimsel durumun nedenini göstermez. Konuşma ve dil konusunda ayrıca kaygı varsa çocuğun doktoruna ve dil ve konuşma terapistine danışın.
 
-### Duyu Bütünleme Terapisi ile Çözüm
-KODİL Ergoterapi merkezimizde, çocukların duyusal dünyasını dengelemek için özel olarak tasarlanmış duyu bütünleme odalarımız bulunmaktadır. Çocuğun sinir sistemini zorlamadan, oyuna entegre edilmiş hareket, denge ve dokunsal çalışmalarla beynin bu uyaranları doğru işlemesini sağlıyoruz. Bu sayede sadece "hassasiyet nedir" sorusuna cevap vermekle kalmıyor, günlük yaşam becerilerinde kalıcı rahatlama sağlıyoruz.
-
-Duyu bütünleme seanslarımızın içeriğini incelemek için [Kimlere Yardımcı Oluyoruz](/kimlere-yardimci-oluyoruz) sayfamızı ziyaret edebilir, veya [erken müdahale](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) programlarımız hakkında uzmanlarımızdan destek alabilirsiniz.
+### Ergoterapi ne zaman konuşulabilir?
+Bir ergoterapist, çocuğun günlük yaşam etkinliklerine katılımıyla ilgili ihtiyaçları değerlendirebilir. Ergoterapi görüşmesinin uygun olup olmadığı çocuğun durumuna ve uzman değerlendirmesine bağlıdır; bu içerik tanı koymaz veya terapi sonucu vaat etmez. KODİL, Kartepe/Kocaeli’de ergoterapi hizmeti sunar. [Hizmet ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) için merkezle görüşebilirsiniz.
     `
   },
   {
@@ -91,7 +79,7 @@ Duyu bütünleme seanslarımızın içeriğini incelemek için [Kimlere Yardımc
     date: '02 Tem 2026',
     keywords: ['dil edinimi ne zaman başlar', 'çocuk gelişimi', 'dil gelişimi', 'kocaeli dil konuşma'],
     content: `
-Ebeveynlerin en heyecanla beklediği anlardan biri çocuklarının ilk kelimesini duymaktır. Peki, gerçekte "dil edinimi ne zaman başlar"? Çoğu kişi dil ediniminin çocuğun ilk kelimeyi söylemesiyle başladığını düşünür; ancak bu süreç bebek henüz anne karnındayken başlar.
+Dil ve iletişim gelişimi doğumdan itibaren çevreyle kurulan etkileşim içinde ilerler. Çocukların becerileri farklı zamanlarda gelişebilir; yaş basamakları gelişim hakkında konuşmaya yardımcı olur ancak tanı aracı değildir.
 
 ### Bebeklik Döneminde Dil Gelişimi
 Bebekler doğdukları andan itibaren çevredeki sesleri, özellikle anne ve babalarının ses tonunu analiz etmeye başlarlar. 
@@ -99,12 +87,10 @@ Bebekler doğdukları andan itibaren çevredeki sesleri, özellikle anne ve baba
 * **4-6 Ay:** Babıldama dönemi. "Ba-ba", "ma-ma" gibi ünlü-ünsüz hecelerin tekrarları başlar.
 * **7-12 Ay:** Jargon dediğimiz, kendi dillerinde melodili ama anlamsız uzun konuşmalar yaparlar. Genellikle 1 yaş civarı ilk anlamlı kelimeler (anne, baba, su, ver vb.) duyulur.
 
-Eğer çocuğunuz beklenen yaş dönüm noktalarına ulaşamıyorsa, bu bir konuşma bozukluğunun (örneğin [çocukluk çağı apraksisi](/blog/apraksi-nedir-belirtileri-ve-tedavisi)) belirtisi olabilir.
+Çocuğunuzun iletişim becerileri hakkında kaygınız varsa doktoruyla paylaşın. Tek bir gelişim basamağının gecikmesi belirli bir konuşma bozukluğu olduğu anlamına gelmez.
 
 ### Gecikme Durumunda Ne Yapılmalı?
-Dil edinimi ne zaman başlar sorusunun yanıtı genelde aynı seyirde gitse de her çocuğun bireysel farklılıkları vardır. Ancak 18 aylık olduğu halde hiç kelimesi olmayan veya 2 yaşında 50 kelime üretmeyen çocukların [Kocaeli dil ve konuşma terapisti](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) uzmanlarımız tarafından değerlendirilmesi, ileride yaşanabilecek akademik zorlukların önüne geçecektir. 
-
-Süreci yakından takip etmek isterseniz hemen [iletişim](/iletisim) sayfamızdan bizimle irtibata geçebilirsiniz.
+Çocuğunuzun iletişim gelişimiyle ilgili sorunuz varsa yaşını, kullandığı sözcük ve jest örneklerini, dili nasıl anladığına dair gözlemlerinizi not ederek doktoruna danışabilirsiniz. Dil ve konuşma terapisti değerlendirmesi konusunda da bilgi alabilirsiniz. KODİL’in [Kartepe/Kocaeli hizmet ve iletişim bilgileri](/kocaeli-dil-ve-konusma-terapisi) mevcuttur. Kaygınız varsa bunu çocuğun doktoruyla paylaşın.
     `
   },
   {
@@ -138,32 +124,29 @@ Eğer çocuğunuzda veya sizde inatçı bir ses kısıklığı varsa [uzman ekib
     date: '17 Tem 2026',
     keywords: ['kocaeli kekemelik', 'kekemelik tedavisi', 'çocuklarda kekemelik', 'akıcı konuşma'],
     content: `
-Kekemelik, konuşmanın akıcılığının ve ritminin ses, hece veya sözcük tekrarları, uzatmalar ya da bloklar (takılmalar) ile kesintiye uğraması durumudur. Ailelerin "kocaeli kekemelik" tedavisi aramalarında en çok merak ettiği soru şudur: "Kekemelik tamamen geçer mi?"
+Kekemelikte konuşma sırasında ses veya hece tekrarları, uzatmalar ya da konuşma blokları görülebilir. Çocuğunuzun konuşmasındaki değişiklikler hakkında kaygınız varsa, gözlemlerinizi çocuk doktoruyla ve dil ve konuşma terapistiyle paylaşın. Yalnızca kısa bir anlatımdan kekemeliğin seyri veya destek ihtiyacı belirlenemez.
 
-### Kekemelik Terapisinde Yaklaşımımız
-Kekemelik, tıbbi bir hastalık değil, nörogelişimsel bir konuşma farklılığıdır. Bu nedenle sihirli bir hap veya tek seferlik bir "iyileştirme" yöntemi yoktur. Ancak doğru [konuşma terapisi](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) teknikleriyle kontrol altına alınabilir. KODİL'de çocuklarda kekemelik tedavisi için genellikle "Lidcombe Programı" veya akıcılık şekillendirme (fluency shaping) tekniklerini kullanıyoruz.
-
-Tedavi sürecinde çocuğun duyusal bir tetikleyicisi olup olmadığını anlamak için [duyusal hassasiyet](/blog/duyusal-hassasiyet-ve-duyu-butunleme) profilini de çıkarıyoruz. Çocuğun konuşma kaygısını yenmesi ve iletişime olan özgüvenini artırması birincil hedefimizdir. Tedavi seanslarımızın detayları için [Uzman Ekibimizle](/ekibimiz) görüşebilirsiniz.
+### Dil ve konuşma terapisti nasıl yardımcı olabilir?
+Dil ve konuşma terapisti konuşma akıcılığını değerlendirip aileyle birlikte uygun destek seçeneklerini görüşebilir. Yaklaşım çocuğun yaşına, deneyimine ve ihtiyacına göre değişir; akıcılığın nasıl değişeceği veya seans sayısı önceden garanti edilemez. KODİL, Kartepe/Kocaeli’de dil ve konuşma terapisi sunar. [Ekip, adres ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) sayfasını inceleyin.
     `
   },
   {
     id: '7',
     slug: 'cocugum-konusmuyor-ne-zaman-uzmana-basvurmaliyim',
     title: 'Çocuğum Konuşmuyor, Ne Zaman Uzmana Başvurmalıyım?',
-    excerpt: 'Çocuğunuz yaş yaşıtlarına göre geriden mi geliyor? Konuşma gecikmesinde ne zaman bir dil ve konuşma terapistine gitmelisiniz?',
+    excerpt: 'Çocuğunuz konuşmuyorsa veya iletişimiyle ilgili kaygınız varsa ilk adımlar, çocuk doktoru ve dil ve konuşma terapisti değerlendirmesi.',
     category: 'Dil Terapisi',
     date: '16 Tem 2026',
     keywords: ['çocuğum konuşmuyor', 'konuşma gecikmesi', 'geç konuşma', 'kocaeli dil terapisti'],
     content: `
-Klinik pratiğimizde ebeveynlerden en sık duyduğumuz cümlelerden biri "Çocuğum konuşmuyor, her şeyi anlıyor ama sadece işaret ediyor" şeklindedir. Etraftaki insanların "Erkek çocuğudur geç konuşur" veya "Babası da geç konuşmuştu" gibi tesellileri, ne yazık ki [erken müdahale](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) şansının kaçırılmasına neden olmaktadır.
+Çocuğunuz henüz konuşmuyorsa veya iletişim biçimi hakkında kaygınız varsa, gözleminizi çocuğun doktoruyla paylaşın. “Bekleyip görelim” kararından emin değilseniz, hangi gelişim taraması ya da uzman değerlendirmesinin uygun olacağını sorun. Her çocuğun gelişimi farklıdır ve bu sayfa tanı koyamaz.
 
-### Hangi Durumlarda Vakit Kaybetmemelisiniz?
-* Çocuğunuz 18 aylık olduğu halde hiç anlamlı kelimesi (anne, baba, su, ver) yoksa,
-* 2 yaşına geldiğinde 50 kelimelik bir dağarcığı yoksa ve iki kelimeli cümleler (anne su, baba gel) kuramıyorsa,
-* 3 yaşına geldiğinde yabancılar konuştuklarının yarısından fazlasını anlayamıyorsa,
-* Seslenildiğinde ismine tepki vermiyor veya göz teması kurmuyorsa, vakit kaybetmeden bir uzman değerlendirmesi şarttır.
+### Hangi adımlar yardımcı olabilir?
+* Çocuğunuzun günlük iletişiminden örnekleri ve sizi kaygılandıran durumları not edin.
+* Çocuğun doktorundan gelişim taraması ve gerekirse ileri değerlendirme hakkında bilgi alın.
+* Konuşma ve dili anlama becerileri için dil ve konuşma terapisti değerlendirmesi sorun. İşitmeyle ilgili bir kaygınız varsa bunu da doktorla paylaşın.
 
-Unutmayın, [dil edinimi](/blog/dil-edinimi-ne-zaman-baslar) anne karnında başlayan ve ilk 3 yılda zirve yapan bir süreçtir. Eğer çocuğunuzda bu belirtilerden herhangi birini görüyorsanız [KODİL uzmanlarından randevu alın](/iletisim) ve çocuğunuzun iletişim yolculuğunu güvenle başlatın.
+CDC, gelişim kaygılarının çocuğun doktoruyla paylaşılmasını önerir; basamak listeleri tanı aracı değildir. Genel bilgi için [CDC rehberini](https://www.cdc.gov/act-early/families/concerned.html) ve [ASHA’nın geç dil gelişimi değerlendirme açıklamasını](https://www.asha.org/Practice-Portal/Clinical-Topics/Late-Language-Emergence/) okuyabilirsiniz. KODİL, Kartepe/Kocaeli’de dil ve konuşma terapisi hizmeti sunar; [adres ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) sayfamızdadır.
     `
   },
   {
@@ -175,29 +158,29 @@ Unutmayın, [dil edinimi](/blog/dil-edinimi-ne-zaman-baslar) anne karnında baş
     date: '16 Tem 2026',
     keywords: ['artikülasyon bozukluğu', 'harfleri söyleyememe', 'r harfi söyleyememe', 'pelteklik'],
     content: `
-Çocuğunuz "Araba" yerine "Ayaba", "Kitap" yerine "Titap" veya "Köpek" yerine "Töpek" mi diyor? Harfleri yanlış üretme, atlama veya birbirinin yerine kullanma durumuna artikülasyon bozukluğu veya fonolojik bozukluk denir.
+Çocuğunuz bazı konuşma seslerini farklı üretiyor veya konuşması anlaşılmakta zorlanıyorsa, bu tek başına bir tanı anlamına gelmez. Konuşma seslerinin gelişimi yaşa ve bireye göre değişebilir; kaygınızı çocuk doktoruyla ve dil ve konuşma terapistiyle görüşün.
 
 ### Neden Olur ve Nasıl Düzelir?
-Artikülasyon problemleri; dudak, dil, damak ve dişlerin konuşma seslerini üretmek için doğru pozisyonu alamamasından kaynaklanır. Bazen işitme problemleri veya anatomik farklılıklar da bu duruma yol açabilir. Çocuğun konuşma kaslarını planlamakta zorlandığı [apraksi](/blog/apraksi-nedir-belirtileri-ve-tedavisi) ile artikülasyon bozukluğu sıklıkla karıştırılır ancak ikisinin tedavi yaklaşımı tamamen farklıdır.
+Bir dil ve konuşma terapisti çocuğun konuşma seslerini ve anlaşılabilirliğini değerlendirebilir. İşitme, dil gelişimi veya başka bir sağlık alanıyla ilgili kaygı varsa çocuk doktoru uygun yönlendirmeyi yapabilir. Çevrimiçi örneklerden tanı koymak veya çocuğa egzersiz seçmek doğru değildir.
 
-[Kocaeli dil ve konuşma terapisti](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) uzmanlarımız, çocuğun yanlış ürettiği sesleri doğru bir şekilde hedefleyerek, ayna karşısında yapılan dil-dudak egzersizleri ve oyun tabanlı tekrarlarla doğru ses üretimini öğretir. Çocuğunuzun konuşma anlaşılırlığını artırmak için [Kimlere Yardımcı Oluyoruz](/kimlere-yardimci-oluyoruz) sayfamızı inceleyebilirsiniz.
+KODİL, Kartepe’de dil ve konuşma terapisi hizmeti sunar. Değerlendirme, hedefler ve aile katılımı hakkında bilgi için [ekibimizle](/ekibimiz) görüşebilir veya [iletişim sayfamızı](/kocaeli-dil-ve-konusma-terapisi) ziyaret edebilirsiniz.
     `
   },
   {
     id: '9',
     slug: 'kocaeli-otizm-ve-dil-terapisi-yaklasimlarimiz',
     title: 'Kocaeli Otizm ve Dil Terapisi Yaklaşımlarımız',
-    excerpt: 'Otizm Spektrum Bozukluğu olan çocuklarda dil ve konuşma terapisi ile ergoterapinin rolü. Kocaeli otizm eğitim merkezimizde bütüncül yaklaşım.',
+    excerpt: 'Otizm tanısı veya gelişim kaygısı olan çocuklarda iletişim desteği; çocuk doktoru, tanı değerlendirmesi ve Kocaeli’de dil ve konuşma terapisi hakkında bilgi.',
     category: 'Otizm',
     date: '15 Tem 2026',
     keywords: ['kocaeli otizm', 'otizm dil terapisi', 'otizm konuşma terapisi', 'otizm belirtileri'],
     content: `
-Otizm Spektrum Bozukluğu (OSB), sosyal iletişim ve etkileşimde zorluklar, sınırlı ilgi alanları ve tekrarlayıcı davranışlarla karakterize edilen nörogelişimsel bir farklılıktır. Ailelerin "kocaeli otizm" aramalarında en çok ihtiyaç duyduğu hizmetlerin başında Dil ve Konuşma Terapisi ile Ergoterapi gelmektedir.
+Otizmle ilgili tanı ve değerlendirme, uygun nitelikteki sağlık uzmanlarınca çocuğun gelişim öyküsü ve kapsamlı değerlendirme birlikte ele alınarak yapılır. İsme tepki vermeme, göz teması veya konuşma gelişimindeki farklılıklar tek başına tanı koydurmaz. Kaygınızı çocuğun doktoruyla paylaşın.
 
-### Otizmde İletişimi Nasıl Destekliyoruz?
-Otizmli çocuklarda iletişim sadece "konuşmak" demek değildir. Göz teması kurmak, ortak dikkat sağlamak ve işaret etmek iletişimin en önemli yapı taşlarıdır (Bkz: [Dil Edinimi](/blog/dil-edinimi-ne-zaman-baslar)). KODİL'de otizmli çocuklarımız için DIR Floortime ve Doğal Dil Öğretimi (NDP) gibi kanıta dayalı, oyuna entegre edilmiş yaklaşımlar kullanıyoruz.
+### İletişim desteği hakkında
+Dil ve konuşma terapisti, çocuğun iletişim ve dil becerilerini değerlendirebilir; destek hedefleri çocuğun ihtiyacına ve ailesiyle yapılan görüşmeye göre belirlenir. Ergoterapi değerlendirmesi, günlük etkinliklere katılımla ilgili ihtiyaçlar için ayrıca düşünülebilir. Bu hizmetler otizm tanısının yerine geçmez.
 
-Otizmli bireylerde sıklıkla görülen sese kulak tıkama, dönen cisimlere bakma veya bazı dokulara tahammül edememe gibi durumlar için ise [duyusal hassasiyet ve duyu bütünleme](/blog/duyusal-hassasiyet-ve-duyu-butunleme) terapisi devreye girmektedir. Çocuğun duyusal sistemi regüle (sakin) olduğunda, öğrenme ve iletişime açılması çok daha hızlı olur. Detaylı değerlendirme için [iletişim](/iletisim) sayfamızdan randevu talep edebilirsiniz.
+CDC, otizm tanısının gelişim öyküsü ve profesyonel davranış gözlemi gibi birden fazla bilgi kaynağına dayandığını ve tek bir aracın tanı için kullanılmaması gerektiğini belirtir: [CDC tanı bilgisi](https://www.cdc.gov/autism/hcp/diagnosis/index.html). KODİL, Kartepe/Kocaeli’de dil ve konuşma terapisi hizmeti sunar; [adres, hizmet ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) sayfamızdadır.
     `
   },
   {
@@ -215,7 +198,7 @@ Sesimiz, kişiliğimizin ve kimliğimizin en önemli yansımasıdır. Ancak öğ
 Ses terapisi sadece bir şan eğitimi değildir; ses tellerinin anatomisine ve fizyolojisine yönelik tıbbi bir müdahaledir. Aşağıdaki durumlarda sıklıkla kullanılır:
 * **Ses Teli Nodülleri ve Polipleri:** Seste çatallanma ve yorulmaya neden olur.
 * **[Granülom](/blog/granulom-nedir-ses-teli-nodulu):** Reflü veya entübasyon sonrası oluşan tahrişler.
-* **Mutasyonel Falsetto:** Ergenlik döneminde sesin kalınlaşması gerekirken ince ve tiz kalması durumudur. Genellikle birkaç terapi seansında kalıcı olarak çözülebilir.
+* **Ergenlik döneminde ses değişimi:** Ses değişimi kişiden kişiye farklılık gösterebilir. Süregelen sesle ilgili kaygıda önce KBB hekimine danışın; uygun görülürse ses terapisi hakkında bilgi alın. Seans sayısı veya sonuç önceden garanti edilemez.
 * **Ses Teli Felci (Paralizi):** Tiroit ameliyatları sonrası veya viral enfeksiyonlara bağlı olarak gelişebilir.
 
 Eğer 2 haftadan uzun süren bir ses kısıklığınız varsa, öncelikle bir KBB hekimine muayene olmalı, ardından ses hijyeni ve ses egzersizleri için [uzman dil ve konuşma terapistlerimizle](/ekibimiz) görüşmelisiniz.
@@ -225,19 +208,19 @@ Eğer 2 haftadan uzun süren bir ses kısıklığınız varsa, öncelikle bir KB
     id: '11',
     slug: 'kocaeli-dil-ve-konusma-terapisti-tavsiye',
     title: 'Kocaeli Dil ve Konuşma Terapisti Tavsiye: Uzman Seçerken Dikkat Edilmesi Gerekenler',
-    excerpt: 'Kocaeli ve çevresinde en iyi dil ve konuşma terapisti arayışınızda nelere dikkat etmelisiniz? Doğru uzmanı seçme rehberi.',
+    excerpt: 'Kocaeli’de dil ve konuşma terapisti seçerken eğitim, değerlendirme yaklaşımı, aile katılımı ve randevu koşulları hakkında sorabileceğiniz sorular.',
     category: 'Dil Terapisi',
     date: '17 Tem 2026',
     keywords: ['kocaeli dil ve konuşma terapisti tavsiye', 'kocaeli en iyi dil terapisti', 'izmit dil ve konuşma terapisti', 'kocaeli dil terapisti öneri'],
     content: `
-Çocuğunuzun veya kendinizin konuşma ve dil gelişimi ile ilgili bir endişeniz olduğunda, Google'da "Kocaeli dil ve konuşma terapisti tavsiye" araması yapmak genellikle atılan ilk adımdır. Ancak karşınıza çıkan onlarca seçenek arasından doğru uzmanı nasıl bulacaksınız?
+Çocuğunuzun iletişim veya konuşma gelişimiyle ilgili kaygınız varsa Kocaeli’de uzman ararken eğitim, değerlendirme süreci ve hizmet koşulları hakkında doğrudan bilgi alın. Önce çocuk doktoruyla görüşmek de çocuğunuzun genel gelişimini ele almak için yararlı bir adımdır.
 
 ### Uzman Seçiminde Altın Kriterler
-1. **Diplomalı Uzmanlık:** Terapistinizin 4 yıllık "Dil ve Konuşma Terapisi" lisans mezunu olduğundan emin olun. KODİL'de hizmet veren tüm uzmanlarımız Sağlık Bakanlığı onaylı lisans diplomasına sahiptir. (Bkz: [Ekibimiz](/ekibimiz))
-2. **Bütüncül Yaklaşım:** Sadece konuşmaya odaklanmak her zaman yeterli olmaz. Çocuğun [duyusal hassasiyetleri](/blog/duyusal-hassasiyet-ve-duyu-butunleme) veya motor becerileri değerlendirilmeli, gerektiğinde ergoterapi ile desteklenmelidir.
-3. **Çocuk Odaklı Fiziksel Ortam:** Terapinin yapılacağı merkez, çocuğun kendini güvende hissedeceği, oyun temelli bir yaklaşıma sahip olmalıdır. 
+1. Görüşeceğiniz uzmanın eğitimini, mesleki unvanını ve çocuklarla çalışma alanını sorun; yayımlanan bilgileri ayrıca inceleyin.
+2. Değerlendirmenin neleri kapsadığını, hedeflerin nasıl belirleneceğini ve ailenin sürece nasıl katılacağını sorun.
+3. Seans sıklığı, ücret, iptal koşulları ve olası yönlendirmeler konusunda önceden bilgi alın. Bunlar ihtiyaca göre değişebilir.
 
-Kocaeli'de dil terapisti ararken merkezin donanımı, uzmanların tecrübesi ve aile eğitimi konusundaki vizyonu büyük önem taşır. Çocuğunuzun [erken müdahale](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) sürecine hemen başlamak için [iletişim](/iletisim) sayfamızdan randevu oluşturabilirsiniz.
+KODİL, Kartepe/Kocaeli’de dil ve konuşma terapisi hizmeti sunar. Merkezin [yayımlanmış ekip bilgilerini](/ekibimiz), [hizmet ve iletişim sayfasını](/kocaeli-dil-ve-konusma-terapisi) inceleyebilir, randevu öncesi sorularınızı telefonla iletebilirsiniz.
     `
   },
   {
@@ -258,7 +241,7 @@ Kocaeli'de dil terapisti ararken merkezin donanımı, uzmanların tecrübesi ve 
 * Yaşına göre sınırlı kelime dağarcığı ve [konuşma gecikmesi](/blog/cocugum-konusmuyor-ne-zaman-uzmana-basvurmaliyim) geçmişi
 
 ### Kocaeli Disleksi Merkezimizde Neler Yapıyoruz?
-Disleksi, zeka geriliği değildir; aksine disleksili bireylerin zeka seviyeleri normal veya normalin üstündedir. Beynin bilgiyi işleme şekli farklıdır. KODİL [Özel Eğitim](/kimlere-yardimci-oluyoruz) ve dil konuşma terapisi departmanlarımızla okuma-yazma sürecinde nörobilişsel müdahaleler ve çoklu duyuya hitap eden (görsel, işitsel, dokunsal) eğitim programları hazırlıyoruz. Çocuğunuz okulda zorlanıyorsa vakit kaybetmeden [Kocaeli dil ve konuşma terapisti uzmanlarımızla görüşün](/iletisim).
+Okuma ve yazma güçlüğünün nedenini bu belirtilerden tek başına belirlemek mümkün değildir. Çocuğun okulda zorlandığını düşünüyorsanız öğretmeni ve doktoruyla görüşerek uygun değerlendirme yollarını sorun. KODİL’in [yayımlanmış hizmet alanları](/kimlere-yardimci-oluyoruz) arasında dil ve konuşma terapisi, ergoterapi ve psikoloji bulunur; özel eğitim tanısı veya hizmeti sunduğu varsayılmamalıdır. Kocaeli’deki adres ve randevu bilgileri [buradadır](/kocaeli-dil-ve-konusma-terapisi).
     `
   },
   {
@@ -315,10 +298,7 @@ Yetişkinlerde konuşma terapisi, tıpkı çocuklardaki [apraksi tedavisinde](/b
 Gebze, Darıca ve Çayırova bölgeleri Kocaeli'nin nüfus yoğunluğu en yüksek olan ve nitelikli sağlık profesyonellerine en çok ihtiyaç duyulan ilçeleridir. "Gebze dil ve konuşma terapisti" arayışında olan birçok ebeveyn, multidisipliner bir yaklaşım aradığı için Kartepe'deki KODİL Ergoterapi ve Dil Konuşma Merkezi'ni tercih etmektedir.
 
 ### Neden KODİL'i Tercih Etmelisiniz?
-Tek bir merkez çatısı altında hem [dil ve konuşma terapisti](/blog/cocugum-konusmuyor-ne-zaman-uzmana-basvurmaliyim), hem [ergoterapi](/blog/duyusal-hassasiyet-ve-duyu-butunleme), hem de özel eğitim desteği alabilmek terapi sürecini inanılmaz derecede hızlandırır.
-Örneğin; [otizm spektrum bozukluğu](/blog/kocaeli-otizm-ve-dil-terapisi-yaklasimlarimiz) teşhisi almış bir çocuğun sadece konuşma terapisi alması yeterli olmayabilir. Duyu bütünleme odasında regüle olduktan hemen sonra konuşma terapisine giren bir çocuğun odaklanması ve kelime üretimi çok daha verimli olur.
-
-Siz de Gebze ve çevresinde yaşıyor ve çocuğunuz için en güvenilir uzmanları arıyorsanız, alanında uzman [KODİL Ekibiyle](/ekibimiz) tanışmak için randevunuzu hemen oluşturabilirsiniz.
+Birden fazla hizmetin gerekip gerekmediği çocuğun bireysel ihtiyaçlarına ve ilgili uzmanların değerlendirmesine bağlıdır. Bir hizmet diğerinin yerine geçmez ve bir arada sunulması daha hızlı ya da daha iyi sonuç garantisi vermez. Gebze’den başvuru düşünen aileler, KODİL’in Kartepe’deki konumunu ve randevu ayrıntılarını [iletişim sayfasından](/kocaeli-dil-ve-konusma-terapisi) inceleyip yolculuk ve uygunluk bilgisi alabilir.
     `
   },
   {
@@ -338,7 +318,7 @@ Genel kural olarak çocukların 5 yaşına kadar R sesini üretememesi normal ka
 2. Yazarken yanlış kodlamasına (Örn: "Resim" yerine "Yesim" yazması)
 3. Akran zorbalığına maruz kalarak özgüven kaybı yaşamasına neden olabilir.
 
-[KODİL uzmanlarımız](/ekibimiz), eğlenceli dil ve dudak egzersizleri, titreşim farkındalığı ve doğru pozisyonlandırma teknikleriyle "R" sesini çocuğunuza kısa sürede kalıcı olarak öğretebilmektedir. Sizin de böyle bir şikayetiniz varsa [terapi yolculuğumuza](/terapi-yolculugu) katılabilirsiniz.
+Konuşma seslerinin değerlendirilmesi ve destek hedefleri çocuğun yaşına, konuşma özelliklerine ve ihtiyaçlarına göre dil ve konuşma terapisti tarafından belirlenir. Belirli bir sesi ne kadar sürede öğreneceğine dair genel süre veya kalıcı sonuç garantisi verilemez. KODİL’in [ekip ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) için merkezle görüşebilirsiniz.
     `
   },
   {
@@ -377,7 +357,7 @@ Tıpkı "Kocaeli dil ve konuşma terapisti" ararken gösterdiğiniz titizliği, 
 ### Ergoterapi Merkezi Seçim Kriterleri
 1. **Lisanslı Ergoterapist Şartı:** Terapiyi uygulayan kişinin 4 yıllık Ergoterapi veya İş ve Uğraşı Terapisi lisans mezunu olması yasal bir zorunluluktur. KODİL bünyesinde [sadece lisans mezunu uzmanlar](/ekibimiz) görev yapar.
 2. **Duyu Bütünleme Odasının Donanımı:** Salıncaklar, tırmanma duvarları, trambolinler, derin bası sağlayan materyallerin çocuğun güvenliğine uygun ve amaca yönelik tasarlanmış olması gerekir.
-3. **Disiplinlerarası İletişim:** Eğer çocuğunuzun aynı zamanda [konuşma gecikmesi](/blog/cocugum-konusmuyor-ne-zaman-uzmana-basvurmaliyim) veya [otizm belirtileri](/blog/kocaeli-otizm-ve-dil-terapisi-yaklasimlarimiz) varsa, ergoterapistin dil ve konuşma terapistiyle sürekli paslaşarak ilerlemesi başarı oranını %100 artırır. 
+3. **Ekip iletişimi:** Birden fazla uzmanla çalışan aileler, gerekli olduğunda uzmanlar arasında nasıl bilgi paylaşılacağını ve bunun aile onayıyla nasıl yürütüleceğini sorabilir. Ekip çalışması belirli bir sonuç veya başarı oranı garantilemez.
 
 KODİL olarak Kocaeli'de ergoterapi ve dil konuşma terapisini aynı çatı altında, en güçlü altyapı ile sunmaktan gurur duyuyoruz. Daha fazla bilgi almak için [hizmetlerimiz](/kimlere-yardimci-oluyoruz) sayfasını inceleyebilirsiniz.
     `
@@ -464,42 +444,36 @@ KODİL merkezimizde cihazlandırılmış çocuklar için İşitsel Sözel Terapi
     id: '23',
     slug: 'kocaeli-ergoterapi',
     title: 'Kocaeli Ergoterapi ve Duyu Bütünleme Merkezi',
-    excerpt: 'Kocaeli Kartepe Ergoterapi merkezimizde duyu bütünleme, ince-kaba motor beceriler ve günlük yaşam aktiviteleri (GYA) eğitimleri.',
+    excerpt: 'Kocaeli Kartepe’de ergoterapi hizmeti ve çocukların günlük yaşam, oyun ve katılım ihtiyaçları hakkında bilgi.',
     category: 'Ergoterapi',
     date: '23 Tem 2026',
     keywords: ['kocaeli ergoterapi', 'kocaeli duyu bütünleme', 'ergoterapist', 'izmit ergoterapi', 'kartepe ergoterapi'],
     content: `
-Kocaeli ergoterapi arayışlarında KODİL'in en çok tercih edilen merkez olmasının sebebi, çocukların ihtiyaçlarına [bütüncül bir yaklaşım](/blog/ergoterapi-merkezi-secerken-nelere-dikkat-edilmeli) sunmasıdır. Ergoterapinin (İş ve Uğraşı Terapisi) temel amacı, bireyin günlük yaşam aktivitelerinde (yemek yeme, giyinme, oyun oynama, okula uyum) bağımsız olmasını sağlamaktır.
+Ergoterapi, kişinin günlük yaşam etkinliklerine ve toplumsal yaşama katılımını desteklemeye odaklanır. Bir çocuğun ihtiyaçları; yemek, giyinme, oyun, okul ve aile rutinleri gibi alanlarda görüşülebilir. KODİL, Kartepe/Kocaeli’de ergoterapi hizmeti sunar; hizmetin çocuğunuz için uygun olup olmadığını doğrudan uzmanla görüşün.
 
 ### Kocaeli Ergoterapi Merkezimizde Hangi Hizmetleri Sunuyoruz?
-* **Duyu Bütünleme Terapisi:** Çocuğun ses, ışık, dokunma gibi [duyusal hassasiyetlerinin](/blog/duyusal-hassasiyet-ve-duyu-butunleme) düzenlenmesi.
-* **İnce ve Kaba Motor Gelişimi:** Kalem tutma, makas kullanma, denge, zıplama ve koordinasyon becerilerinin desteklenmesi.
-* **Regülasyon ve Dikkat:** Özellikle [otizm spektrum bozukluğu](/blog/kocaeli-otizm-ve-dil-terapisi-yaklasimlarimiz) veya DEHB (Dikkat Eksikliği) tanısı olan çocuklarda masada oturma ve odaklanma süresini artırıcı nörobilişsel çalışmalar.
+* Günlük yaşam etkinliklerine katılım ve aile rutinleri.
+* Oyun, okul ve öz bakım etkinliklerinde karşılaşılan güçlüklerin değerlendirilmesi.
+* İnce ve kaba motor becerilerle ilgili ihtiyaçların ele alınması.
 
-Ergoterapi seanslarımız sadece terapi odasında bitmez; aileyi ev programlarıyla destekleyerek çocuğun gelişimini günlük hayatın her anına yayıyoruz. Deneyimli ergoterapistlerimizle görüşmek için [iletişim](/iletisim) sayfamızdan bize ulaşabilirsiniz.
+Değerlendirme ve hedefler çocuğun ihtiyaçlarına göre belirlenir; belirli bir sonuç veya seans sayısı vaat edilemez. KODİL’in [ekip, adres ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) için merkezle iletişime geçebilirsiniz.
     `
   },
   {
     id: '24',
     slug: 'otizm-spektrum-bozuklugu-nedir-nedenleri-nelerdir',
-    title: 'Otizm Spektrum Bozukluğu Nedir, Nedenleri Nelerdir?',
-    excerpt: 'Otizm nedir, erken belirtileri nelerdir? Kocaeli özel eğitim merkezimizde otizm teşhisi sonrası eğitim ve terapi süreçleri.',
+    title: 'Otizmde Değerlendirme ve İletişim Desteği',
+    excerpt: 'Otizm değerlendirmesi, gelişim kaygılarında doktorla görüşme ve tanı sonrası iletişim desteği hakkında ailelere genel bilgi.',
     category: 'Otizm',
     date: '23 Tem 2026',
-    keywords: ['otizm spektrum bozukluğu nedir', 'otizm nedenleri nelerdir', 'otizm belirtileri', 'kocaeli otizm'],
+    keywords: ['otizm değerlendirmesi', 'otizmde iletişim desteği', 'çocuk gelişimi', 'kocaeli dil ve konuşma terapisi'],
     content: `
-Son yıllarda sıklığı giderek artan Otizm Spektrum Bozukluğu (OSB), sosyal iletişim ve etkileşim becerilerinde belirgin eksikliklerin görüldüğü, tekrarlayıcı (stereotipik) davranışlarla karakterize edilen nörogelişimsel bir tablodur. Ailelerin teşhis anında en çok sorduğu soru "Otizm spektrum bozukluğu nedir, nedenleri nelerdir?" olmaktadır.
+Otizm spektrum bozukluğuyla ilgili tanı ve değerlendirme, çocuğun gelişim öyküsü ile uzman değerlendirmesini birlikte ele alır. Tek bir davranış, kontrol listesi veya çevrimiçi yazı tanı koydurmaz. Gelişimle ilgili kaygınızı çocuğun doktoruyla paylaşın ve hangi tarama ya da değerlendirme gerektiğini sorun.
 
-### Otizmin Nedenleri Nelerdir?
-Güncel bilimsel araştırmalar otizmin tek bir nedeni olmadığını, genetik yatkınlığın ve çevresel faktörlerin (ileri anne-baba yaşı, hamilelik komplikasyonları) etkileşimiyle ortaya çıktığını göstermektedir. Ancak aşılar, yanlış ebeveyn tutumları veya "ilgisizlik" otizme NEDEN OLMAZ.
+### Tanı ve destek hakkında
+Gelişim taraması tanıdan farklıdır; tarama, daha ayrıntılı değerlendirme gerekip gerekmediğine karar vermeye yardımcı olabilir. CDC, otizm tanısının aile veya bakım verenlerden alınan gelişim öyküsü ile profesyonel gözlemi içeren bir değerlendirmeye dayandığını ve tek bir aracın tanı için yeterli olmadığını açıklar: [CDC tanı rehberi](https://www.cdc.gov/autism/hcp/diagnosis/index.html).
 
-### Erken Belirtiler ve Tedavi Yaklaşımı
-* Göz teması kurmamak veya ismine tepki vermemek
-* İşaret parmağını kullanarak bir şeyi göstermemek (Ortak dikkat eksikliği)
-* Konuşmada belirgin bir gecikme (Bkz: [Çocuğum Konuşmuyor](/blog/cocugum-konusmuyor-ne-zaman-uzmana-basvurmaliyim))
-* Dönen nesnelere aşırı ilgi veya el çırpma, sallanma gibi hareketler
-
-KODİL Özel Eğitim ve Rehabilitasyon merkezimizde otizmli çocuklar için; [Dil ve Konuşma Terapisi](/blog/kocaeli-otizm-ve-dil-terapisi-yaklasimlarimiz), [Ergoterapi (Duyu Bütünleme)](/blog/duyusal-hassasiyet-ve-duyu-butunleme) ve DIR Floortime yaklaşımlarıyla kanıta dayalı, çok yönlü bir erken müdahale programı uygulanmaktadır.
+Otizm tanısı olsun veya olmasın, çocuğun iletişim ve günlük yaşam ihtiyaçları ayrıca ele alınabilir. Dil ve konuşma terapisi iletişim becerilerine; ergoterapi günlük etkinliklere katılıma odaklanabilir. KODİL, Kartepe/Kocaeli’de bu alanlarda hizmet sunar. Uygun hizmet ve süreç için çocuğunuzun doktoru ve ilgili uzmanlarla görüşün; KODİL’in [adres ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) sayfamızdadır.
     `
   },
   {
@@ -553,7 +527,7 @@ Geleneksel "masa başı, ödül-ceza" sistemlerinden farklı olarak, çocuğun l
 1. **DIR Floortime:** Çocuğun yerde (floor) kendi oyununa katılarak, onun ilgi alanları üzerinden sosyal ve duygusal gelişim basamaklarını (ortak dikkat, karşılıklı etkileşim, problem çözme) tırmanmasını sağlar.
 2. **Hanen (More Than Words) Programı:** Ebeveynlerin çocuğun doğal ortamında nasıl bir dil modeli olması gerektiğini ve oyun oynarken dil gelişimini nasıl destekleyeceklerini öğreten muazzam bir programdır. (Bkz: [Evde Neler Yapabilirsiniz?](/blog/dil-edinimi-ne-zaman-baslar))
 
-Etkileşim temelli uygulamalar, çocuğun öğrenmeyi "sıkıcı bir ders" olarak değil, "eğlenceli bir oyun" olarak algılamasını sağlar. [Ergoterapi (duyu bütünleme)](/blog/duyusal-hassasiyet-ve-duyu-butunleme) ile birleştiğinde mükemmel sonuçlar verir.
+Etkileşim temelli bir uygulamanın çocuğa uygun olup olmadığı uzman değerlendirmesiyle belirlenir. Diğer hizmetlerle birlikte sunulması belirli bir sonucu garanti etmez. KODİL’in [hizmet alanları ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) ayrıca incelenebilir.
     `
   },
   {
@@ -612,28 +586,24 @@ Down sendromlu bireyler mükemmel bir sosyal etkileşim kapasitesine sahiptirler
 2. **Anatomik Farklılıklar:** Göreceli olarak daha büyük dil yapısı ve dar damak kubbesi.
 3. **[Gecikmiş Dil Gelişimi:](/blog/cocugum-konusmuyor-ne-zaman-uzmana-basvurmaliyim)** Zihinsel öğrenme süreçlerinin yaşıtlarına göre daha yavaş seyretmesi.
 
-KODİL Özel Eğitim Merkezi olarak Down Sendromlu çocuklarımız için [duyu bütünleme](/blog/kocaeli-ergoterapi) ile motor gelişimlerini destekliyor, oral-motor masajlar ve dil-dudak egzersizleriyle konuşma kaslarını güçlendiriyoruz. [Erken müdahale](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) programlarımız için vakit kaybetmeden bizimle tanışın.
+Down sendromlu çocukların iletişim ve günlük yaşam ihtiyaçları bireyseldir. Çocuğunuzun doktoru ve ilgili uzmanlarla konuşarak hangi değerlendirme veya desteğin uygun olacağını öğrenin. KODİL, Kartepe/Kocaeli’de dil ve konuşma terapisi ile ergoterapi hizmetleri sunar; [hizmet kapsamı ve randevu bilgisi](/kocaeli-dil-ve-konusma-terapisi) için merkezle görüşebilirsiniz.
     `
   },
   {
     id: '31',
     slug: 'elektronik-cihazin-konusmaya-etkisi',
     title: 'Elektronik Cihazın Konuşmaya Etkisi: Ekran Maruziyeti',
-    excerpt: 'Bebeklerde ve çocuklarda tablet, telefon ve televizyon kullanımının dil ve konuşma gelişimine zararlı etkileri. Ekran maruziyeti ve otizm riski.',
+    excerpt: 'Ekran kullanımı, ebeveyn-çocuk etkileşimi ve konuşma gelişimi: aileler medya alışkanlıklarını nasıl değerlendirebilir?',
     category: 'Çocuk Gelişimi',
     date: '27 Tem 2026',
-    keywords: ['ekran maruziyeti', 'elektronik cihazın konuşmaya etkisi', 'tablet otizmi', 'geç konuşma nedenleri', 'kocaeli dil terapisti'],
+    keywords: ['ekran maruziyeti', 'elektronik cihazın konuşmaya etkisi', 'çocuklarda iletişim gelişimi', 'kocaeli dil terapisti'],
     content: `
-Klinikte bize "Çocuğum 2 buçuk yaşında ama hala konuşmuyor" diye başvuran ailelere ilk sorduğumuz soru şudur: *"Günde kaç saat ekrana (telefon, tablet, TV) maruz kalıyor?"* Ne yazık ki günümüz dijital çağında "Elektronik cihazın konuşmaya etkisi" çocuklarımız üzerinde yıkıcı sonuçlar doğurmaktadır.
+Ebeveynler ekran kullanımı ile konuşma gelişimi arasında ilişki olup olmadığını merak edebilir. Ekran süresi tek başına bir çocuğun konuşma güçlüğünün nedenini veya tanısını açıklamaz. Çocuğunuzun iletişim gelişimiyle ilgili kaygınız varsa bunu doktoruyla paylaşın; ekran kullanımı, birlikte oyun ve günlük konuşma fırsatları dahil çocuğun rutinini de anlatın.
 
-### Ekrana Maruz Kalmak Neden Konuşmayı Engeller?
-Konuşma, tek taraflı bir eylem değildir; karşılıklı [etkileşim temelli](/blog/etkilesim-temelli-uygulamalar) bir süreçtir. Ekrana bakan çocuk sadece "alıcı" konumundadır. Pasif bir şekilde renkli ve hızlı akan görüntüleri izlerken, beyin iletişim kurma (tepki verme, sıra alma, taklit etme) ihtiyacı hissetmez. 
+### Günlük rutinde neler düşünülebilir?
+Ekran kullanımına ilişkin yaklaşım çocuğun yaşına, kullanılan içeriğe ve aile rutinlerine göre değişebilir. Aileler birlikte izleme, cihazsız sohbet ve yemek zamanları, kitap okuma ve oyun gibi yüz yüze etkinliklere alan açmayı düşünebilir. Amerikan Pediatri Akademisi, ailelerin kendi rutinlerine uygun bir medya planı oluşturmasını önerir: [Aile medya planı](https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx).
 
-* 0-2 yaş arasında ekran maruziyeti **KESİNLİKLE YASAKTIR**.
-* Ekran karşısında yemek yedirilen çocuklarda, uzun vadede çiğneme kasları gelişemediği için [artikülasyon (sesletim)](/blog/sesletim-artikulasyon-bozuklugu-nedir) bozuklukları ortaya çıkar.
-* Yoğun ekran maruziyeti, halk arasında "Tablet Otizmi" veya "Sanal Otizm" denilen, otizmle birebir aynı belirtileri (göz teması kurmama, ismine tepki vermeme) veren "Uyaran Eksikliği" tablosunu yaratır. (Bkz: [Otizm Nedir?](/blog/otizm-spektrum-bozuklugu-nedir-nedenleri-nelerdir))
-
-Eğer çocuğunuz uzun süre ekrana maruz kaldıysa ve yaşıtlarından gerideyse, ekranları derhal hayatından çıkarıp acilen [Kocaeli dil ve konuşma terapisti](/blog/kocaeli-dil-ve-konusma-terapisti-neden-erken-mudahale) uzmanlarımızla görüşerek yoğun bir uyarım programına başlamanız gerekmektedir.
+Çocuğun konuşma veya iletişim gelişimiyle ilgili kaygınız varsa yalnızca ekranı azaltmanın yeterli olacağını varsaymayın; doktorunuza danışın. Dil ve konuşma terapisti değerlendirmesi hakkında bilgi için KODİL’in [Kartepe/Kocaeli hizmet ve randevu sayfasını](/kocaeli-dil-ve-konusma-terapisi) inceleyebilirsiniz.
     `
   }
 ]
