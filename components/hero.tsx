@@ -51,12 +51,12 @@ export function Hero() {
               </span>
             </h2>
 
-          <p className="mt-7 max-w-md text-lg leading-relaxed text-muted-foreground animate-in fade-in slide-in-from-bottom-4 duration-700 delay-500 fill-mode-both">
+          <p className="mt-7 max-w-md text-lg leading-relaxed text-muted-foreground">
             Ekip üyelerimizle; ebeveyn ve çocuk odaklı tasarlanan
             merkezimizde her sesin, her kelimenin ve her ilk cümlenin yanındayız.
           </p>
 
-          <div className="mt-9 flex flex-wrap items-center gap-4 animate-in fade-in slide-in-from-bottom-4 duration-700 delay-700 fill-mode-both">
+          <div className="mt-9 flex flex-wrap items-center gap-4">
             <div>
               <a
                 href="/kimlere-yardimci-oluyoruz"
