@@ -32,7 +32,7 @@ const experts = [
   {
     name: 'Buğra CEYLAN',
     role: 'Dil ve Konuşma Terapisti',
-    image: '/images/team/bugra-ceylan-dil-ve-konusma-terapisti.webp',
+    image: '/images/team/bugra-ceylan-dil-ve-konusma-terapisti-v2.webp',
     years: 4,
     tags: ['Floortime 201 Terapisi', 'Artikülasyon Terapisi'],
     accent: 'var(--navy)',

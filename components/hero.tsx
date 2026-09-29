@@ -120,7 +120,6 @@ export function Hero() {
               src="/images/kocaeli-cocuk-dil-terapisti-seansi.webp"
               alt="Kocaeli dil terapisi seansında çocuklarla ebeveyn odaklı yaklaşım"
               fill
-              priority
               sizes="(max-width: 768px) 160px, 256px"
               className="object-cover"
             />
