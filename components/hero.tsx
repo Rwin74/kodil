@@ -54,9 +54,9 @@ export function Hero() {
             <Reveal delay={0.3}>
               <h1 className="inline-flex items-center gap-2 font-mono text-xs uppercase tracking-widest text-secondary sm:text-sm">
                 <Sparkles className="h-4 w-4 text-orange" />
-                <span className="font-semibold text-primary">Kocaeli</span>
+                <span className="font-semibold text-primary">KODİL</span>
                 <span className="text-border mx-1">•</span>
-                Dil ve Konuşma Terapisi Merkezi
+                Kocaeli Dil, Konuşma ve Ergoterapi Merkezi
               </h1>
             </Reveal>
           </div>
@@ -71,7 +71,7 @@ export function Hero() {
           </Reveal>
 
           <p className="mt-7 max-w-md text-lg leading-relaxed text-muted-foreground animate-in fade-in slide-in-from-bottom-4 duration-700 delay-500 fill-mode-both">
-            Deneyimli terapistlerimizle; ebeveyn ve çocuk odaklı tasarlanan
+            Ekip üyelerimizle; ebeveyn ve çocuk odaklı tasarlanan
             merkezimizde her sesin, her kelimenin ve her ilk cümlenin yanındayız.
           </p>
 
@@ -88,10 +88,10 @@ export function Hero() {
               </a>
             </Magnetic>
             <a
-              href="#hikayeler"
+              href="#geri-bildirimler"
               className="text-base font-semibold text-secondary underline decoration-primary decoration-2 underline-offset-8 hover:text-primary"
             >
-              Aile hikâyeleri
+              Geri bildirim ilkeleri
             </a>
           </div>
         </div>

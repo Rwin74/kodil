@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     template: '%s | KODİL',
   },
   description:
-    'Kocaeli dil ve konuşma terapisti arayışınızda uzman kadromuzla yanınızdayız. KODİL; apraksi, duyusal hassasiyet, duyu bütünleme ve konuşma bozuklukları alanında Kocaeli dil terapisti arayan aileler için en güvenilir çocuk odaklı gelişim merkezidir.',
+    'KODİL; Kocaeli’de dil ve konuşma terapisi, ergoterapi ve çocuk odaklı gelişim alanlarında ekip, süreç ve iletişim bilgileri sunar.',
   generator: 'v0.app',
   keywords: [
     'kocaeli dil ve konuşma terapisti',
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Kocaeli Dil ve Konuşma Terapisti | KODİL Ergoterapi Merkezi',
-    description: 'Kocaeli dil ve konuşma terapisti arayışınızda uzman kadromuzla yanınızdayız. KODİL; apraksi, duyusal hassasiyet, duyu bütünleme ve konuşma bozuklukları alanında Kocaeli dil terapisti arayan aileler için en güvenilir çocuk odaklı gelişim merkezidir.',
+    description: 'KODİL; Kocaeli’de dil ve konuşma terapisi, ergoterapi ve çocuk odaklı gelişim alanlarında ekip, süreç ve iletişim bilgileri sunar.',
     url: 'https://kocaelidilvekonusma.com',
     siteName: 'KODİL',
     locale: 'tr_TR',
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Kocaeli Dil ve Konuşma Terapisti | KODİL Ergoterapi Merkezi',
-    description: 'Kocaeli dil ve konuşma terapisti arayışınızda uzman kadromuzla yanınızdayız. KODİL; apraksi, duyusal hassasiyet, duyu bütünleme ve konuşma bozuklukları alanında Kocaeli dil terapisti arayan aileler için en güvenilir çocuk odaklı gelişim merkezidir.',
+    description: 'KODİL; Kocaeli’de dil ve konuşma terapisi, ergoterapi ve çocuk odaklı gelişim alanlarında ekip, süreç ve iletişim bilgileri sunar.',
   },
   icons: {
     icon: '/images/favicon.webp',

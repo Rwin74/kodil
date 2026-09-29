@@ -4,8 +4,8 @@ import { SuccessStories } from '@/components/success-stories'
 import { NextStep } from '@/components/next-step'
 
 export const metadata: Metadata = {
-  title: 'Başarı Hikayeleri ve İstatistikler',
-  description: 'KODİL ile terapi sürecini tamamlayan ve hayatına yeni bir sayfa açan danışanlarımızın başarı hikayeleri.',
+  title: 'Deneyim ve Geri Bildirim İlkeleri',
+  description: 'Gerçek kullanıcı geri bildirimleri yalnızca kaynağı, yayın izni ve uygunluk incelemesi tamamlandığında paylaşılır.',
   alternates: {
     canonical: '/basari-hikayeleri',
   },

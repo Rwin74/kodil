@@ -4,7 +4,7 @@ import { NextStep } from '@/components/next-step'
 
 export const metadata: Metadata = {
   title: 'Uzman Kadromuz | Ekibimiz',
-  description: 'Alanında uzman dil ve konuşma terapistleri ile ergoterapistlerden oluşan KODİL kadrosuyla tanışın.',
+  description: 'KODİL ekibini, görevlerini ve ayrı kişi profillerini tanıyın. Eğitim ve uzmanlık bilgileri yalnızca doğrulanmış kaynaklarla yayımlanır.',
   alternates: {
     canonical: '/ekibimiz',
   },

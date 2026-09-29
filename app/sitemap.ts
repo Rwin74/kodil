@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next'
 import { articles } from '@/lib/articles'
+import { teamMembers } from '@/lib/team'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://kocaelidilvekonusma.com'
@@ -9,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/kimlere-yardimci-oluyoruz',
     '/terapi-yolculugu',
     '/ekibimiz',
+    '/hakkimizda',
     '/basari-hikayeleri',
     '/blog',
     '/iletisim',
@@ -26,5 +28,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9, // High priority for SEO articles
   }))
 
-  return [...staticRoutes, ...dynamicRoutes]
+  const teamRoutes = teamMembers.map((member) => ({
+    url: `${baseUrl}/ekibimiz/${member.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as any,
+    priority: 0.7,
+  }))
+
+  return [...staticRoutes, ...dynamicRoutes, ...teamRoutes]
 }
