@@ -17,23 +17,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/iletisim',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
-    lastModified: new Date(),
-    changeFrequency: route === '' ? 'weekly' : 'monthly' as any,
-    priority: route === '' ? 1 : 0.8,
   }))
 
   const dynamicRoutes = articles.map((article) => ({
     url: `${baseUrl}/blog/${article.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as any,
-    priority: 0.9, // High priority for SEO articles
+    lastModified: new Date(article.modifiedIsoDate ?? article.isoDate),
   }))
 
   const teamRoutes = teamMembers.map((member) => ({
     url: `${baseUrl}/ekibimiz/${member.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as any,
-    priority: 0.7,
   }))
 
   return [...staticRoutes, ...dynamicRoutes, ...teamRoutes]

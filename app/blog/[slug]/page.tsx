@@ -18,17 +18,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: article.title,
+    title: article.seoTitle ?? article.title,
     description: article.excerpt,
     keywords: article.keywords,
     alternates: {
       canonical: `/blog/${article.slug}`,
     },
     openGraph: {
-      title: article.title,
+      title: article.seoTitle ?? article.title,
       description: article.excerpt,
       type: 'article',
-      publishedTime: article.date,
+      publishedTime: article.isoDate,
+      modifiedTime: article.modifiedIsoDate ?? article.isoDate,
       authors: ['KODİL Uzmanları'],
     }
   }
@@ -53,7 +54,8 @@ export default async function ArticlePage({ params }: Props) {
     '@type': 'Article',
     headline: article.title,
     description: article.excerpt,
-    datePublished: article.date, // In production, this should be ISO 8601 (e.g. 2026-07-15)
+    datePublished: article.isoDate,
+    dateModified: article.modifiedIsoDate ?? article.isoDate,
     author: {
       '@type': 'Organization',
       name: 'KODİL Uzmanları',

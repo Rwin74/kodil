@@ -301,15 +301,17 @@ Okuma ve yazma güçlüğünün nedenini bu belirtilerden tek başına belirleme
     id: '13',
     slug: 'izmit-dil-ve-konusma-terapisti',
     title: 'İzmit Dil Terapisti Arayanlara: Kartepe’de KODİL',
-    excerpt: 'İzmit’ten Kartepe’deki KODİL’e ulaşım, dil ve konuşma terapisi hizmet kapsamı ve randevu bilgileri. Konumun ve ihtiyaçların size uygun olup olmadığını görüşün.',
+    excerpt: 'İzmit’te dil terapisti arayanlar için KODİL’in Kartepe konumu, dil ve konuşma terapisi hizmet bilgisi ve randevu öncesinde sorulacaklar.',
     category: 'Merkezimiz',
     date: '18 Tem 2026',
     isoDate: '2026-07-18',
+    modifiedDate: '1 Eki 2026',
+    modifiedIsoDate: '2026-10-01',
     keywords: ['izmit dil ve konuşma terapisti', 'izmit dil terapisti', 'kocaeli izmit konuşma terapisti', 'izmit ergoterapi'],
     content: `
 ## İzmit’ten KODİL’e ulaşım ve konum
 
-İzmit’te dil ve konuşma terapisti arıyorsanız, randevu almadan önce merkezin konumunu ve yolculuk süresini kendi adresinize göre kontrol edin. KODİL, İzmit merkezde değil; Kartepe ilçesinde, Altek Plaza’da hizmet verir. İzmit’ten geliş süresi başlangıç noktanıza ve trafiğe göre değişir. [Haritada konumu açın](/kocaeli-dil-ve-konusma-terapisi) veya merkezden ulaşım bilgisi alın.
+İzmit’te dil ve konuşma terapisti arıyorsanız, randevu almadan önce merkezin konumunu ve yolculuk süresini kendi adresinize göre kontrol edin. KODİL, İzmit merkezde değil; Kartepe ilçesinde, Altek Plaza’da hizmet verir. İzmit’ten geliş süresi başlangıç noktanıza ve trafiğe göre değişir. [Kartepe’deki adresi haritada açın](https://www.google.com/maps/dir/?api=1&destination=Altek+Plaza%2C+Dumlup%C4%B1nar%2C+Kartepe%2C+Kocaeli) veya merkezden ulaşım bilgisi alın.
 
 ## Dil ve konuşma terapisti hangi alanları değerlendirir?
 
@@ -407,18 +409,20 @@ KODİL'de yutma bozukluğu olan hastalarımıza özel postür (duruş) manevrala
   {
     id: '18',
     slug: 'ergoterapi-merkezi-secerken-nelere-dikkat-edilmeli',
-    title: 'Kocaeli Ergoterapi: Kartepe’de Hizmet ve Randevu Bilgisi',
-    excerpt: 'Kocaeli’de ergoterapi arayanlar için ergoterapistin çalışma alanı, merkezin Kartepe konumu ve randevu öncesinde sorulabilecekler.',
+    title: 'Ergoterapi Merkezi Seçerken Sorulacak Sorular',
+    excerpt: 'Ergoterapi merkezi seçerken çalışma alanı, değerlendirme, aile katılımı ve ücret hakkında sorulabilecek sorular.',
     category: 'Ergoterapi',
     date: '20 Tem 2026',
     isoDate: '2026-07-20',
-    keywords: ['kocaeli ergoterapi', 'kocaeli duyu bütünleme', 'ergoterapi merkezi', 'ergoterapist', 'kocaeli dil ve konuşma terapisti'],
+    modifiedDate: '1 Eki 2026',
+    modifiedIsoDate: '2026-10-01',
+    keywords: ['ergoterapi merkezi seçerken', 'ergoterapist nasıl seçilir', 'ergoterapi değerlendirmesi', 'ergoterapi aile katılımı'],
     content: `
 ## Ergoterapi hangi günlük yaşam alanlarıyla ilgilenir?
 
 Ergoterapi; kişinin günlük yaşam etkinliklerine, oyununa, okuluna ve toplumsal yaşama katılımını desteklemeye odaklanır. Görüşmede kişinin güçlü yönleri, zorlandığı etkinlikler ve ortamı ele alınır. Tek bir davranış veya duyusal tepki tanı koydurmaz; değerlendirme ve destek ihtiyacı kişiye göre belirlenir. [Duyusal hassasiyetler hakkında genel bilgiyi](/blog/duyusal-hassasiyet-ve-duyu-butunleme) ayrıca inceleyebilirsiniz.
 
-## Kocaeli’de ergoterapi arayanlar için KODİL’in konumu
+## KODİL’in konumu
 
 KODİL, Kocaeli’nin Kartepe ilçesinde ergoterapi hizmeti sunar. İzmit veya başka bir ilçeden gelecekseniz randevu öncesinde adresi ve ulaşım süresini kontrol edin. Merkez, İzmit merkezde değildir. [Açık adresi, telefon numarasını ve randevu bilgilerini](/kocaeli-dil-ve-konusma-terapisi) inceleyebilirsiniz.
 
@@ -516,21 +520,31 @@ KODİL merkezimizde cihazlandırılmış çocuklar için İşitsel Sözel Terapi
   {
     id: '23',
     slug: 'kocaeli-ergoterapi',
-    title: 'Kocaeli Ergoterapi ve Duyu Bütünleme Merkezi',
-    excerpt: 'Kocaeli Kartepe’de ergoterapi hizmeti ve çocukların günlük yaşam, oyun ve katılım ihtiyaçları hakkında bilgi.',
+    title: 'İzmit Ergoterapist Arayanlara: Kocaeli Kartepe’de Ergoterapi',
+    excerpt: 'İzmit’te ergoterapist arayanlar için KODİL’in Kartepe konumu, ergoterapinin çalışma alanları ve randevu öncesi sorular.',
     category: 'Ergoterapi',
     date: '23 Tem 2026',
     isoDate: '2026-07-23',
-    keywords: ['kocaeli ergoterapi', 'kocaeli duyu bütünleme', 'ergoterapist', 'izmit ergoterapi', 'kartepe ergoterapi'],
+    modifiedDate: '1 Eki 2026',
+    modifiedIsoDate: '2026-10-01',
+    keywords: ['izmit ergoterapist', 'izmit ergoterapi', 'kocaeli ergoterapi', 'kartepe ergoterapi'],
     content: `
-Ergoterapi, kişinin günlük yaşam etkinliklerine ve toplumsal yaşama katılımını desteklemeye odaklanır. Bir çocuğun ihtiyaçları; yemek, giyinme, oyun, okul ve aile rutinleri gibi alanlarda görüşülebilir. KODİL, Kartepe/Kocaeli’de ergoterapi hizmeti sunar; hizmetin çocuğunuz için uygun olup olmadığını doğrudan uzmanla görüşün.
+## İzmit’te ergoterapist arayanlar için KODİL’in konumu
 
-### Kocaeli Ergoterapi Merkezimizde Hangi Hizmetleri Sunuyoruz?
-* Günlük yaşam etkinliklerine katılım ve aile rutinleri.
-* Oyun, okul ve öz bakım etkinliklerinde karşılaşılan güçlüklerin değerlendirilmesi.
-* İnce ve kaba motor becerilerle ilgili ihtiyaçların ele alınması.
+İzmit ergoterapist arayışınızda konumu da karşılaştırıyorsanız, KODİL’in İzmit merkezde değil Kartepe’de bulunduğunu dikkate alın. Merkez adresi Altek Plaza, Dumlupınar, Şht. Turgut Çiçek Cad. D:3. Kat B12, 41250 Kartepe/Kocaeli’dir. İzmit’ten yolculuk süresi bulunduğunuz noktaya ve trafiğe göre değişir. [Adresi haritada açın](https://www.google.com/maps/dir/?api=1&destination=Altek+Plaza%2C+Dumlup%C4%B1nar%2C+Kartepe%2C+Kocaeli); randevudan önce ulaşım ve saat bilgilerini merkezle teyit edin.
 
-Değerlendirme ve hedefler çocuğun ihtiyaçlarına göre belirlenir; belirli bir sonuç veya seans sayısı vaat edilemez. KODİL’in [ekip, adres ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) için merkezle iletişime geçebilirsiniz.
+## Ergoterapi hangi alanlara odaklanır?
+
+Ergoterapi, kişinin günlük yaşam etkinliklerine ve toplumsal yaşama katılımını desteklemeye odaklanır. Çocuklarda yemek, giyinme, oyun, okul ve aile rutinleri gibi günlük etkinliklerdeki ihtiyaçlar görüşülebilir. Değerlendirme ve hedefler kişiye göre belirlenir; bir davranış veya duyusal tepki tek başına tanı koydurmaz.
+
+## Randevu öncesi neleri sorabilirsiniz?
+
+- İlk görüşmede hangi günlük etkinlikler ve ihtiyaçlar ele alınacak?
+- Görüşeceğiniz ergoterapistin eğitim ve görev bilgileri nelerdir?
+- Aile sürece nasıl katılır; hedefler nasıl izlenir?
+- Seans ücreti, süresi, randevu ve iptal koşulları nedir?
+
+KODİL’in yayımlanmış ekip görevlerini [ekip sayfasında](/ekibimiz), adres ve telefon bilgisini [hizmet ve iletişim sayfasında](/kocaeli-dil-ve-konusma-terapisi) inceleyebilirsiniz. Uygun hizmet, bireysel görüşme ve uzman değerlendirmesiyle belirlenir; belirli bir sonuç veya seans sayısı vaat edilmez.
     `
   },
   {
