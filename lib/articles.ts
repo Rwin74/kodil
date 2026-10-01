@@ -300,21 +300,24 @@ Okuma ve yazma güçlüğünün nedenini bu belirtilerden tek başına belirleme
   {
     id: '13',
     slug: 'izmit-dil-ve-konusma-terapisti',
-    title: 'İzmit Dil ve Konuşma Terapisti: Çocuğunuz İçin En Yakın Uzman',
-    excerpt: 'İzmit merkez ve çevre ilçelere hizmet veren KODİL Dil ve Konuşma Terapisi Merkezi. Artikülasyon, kekemelik ve apraksi tedavileri.',
+    title: 'İzmit Dil Terapisti Arayanlara: Kartepe’de KODİL',
+    excerpt: 'İzmit’ten Kartepe’deki KODİL’e ulaşım, dil ve konuşma terapisi hizmet kapsamı ve randevu bilgileri. Konumun ve ihtiyaçların size uygun olup olmadığını görüşün.',
     category: 'Merkezimiz',
     date: '18 Tem 2026',
     isoDate: '2026-07-18',
     keywords: ['izmit dil ve konuşma terapisti', 'izmit dil terapisti', 'kocaeli izmit konuşma terapisti', 'izmit ergoterapi'],
     content: `
-Kocaeli'nin kalbi İzmit'te ikamet eden ailelerimiz sıklıkla "İzmit dil ve konuşma terapisti nerede bulabilirim?" şeklinde araştırmalar yapmaktadır. KODİL Kartepe'deki merkezi konumuyla İzmit, Başiskele ve Derince gibi bölgelere kolay ulaşım imkanı sunan tam teşekküllü bir gelişim merkezidir.
+## İzmit’ten KODİL’e ulaşım ve konum
 
-### İzmit ve Çevresi İçin Sunduğumuz Hizmetler
-* **Artikülasyon Terapisi:** "R" veya "S" gibi [harfleri söyleyememe](/blog/artikulasyon-bozuklugu-nedir-harfleri-soyleyememe) durumlarında net ve anlaşılır konuşma eğitimi.
-* **Kekemelik Terapisi:** Çocuklarda ve yetişkinlerde kanıta dayalı [akıcılık terapileri](/blog/kocaeli-kekemelik-tedavisi-akici-konusma).
-* **Ses Terapisi:** Öğretmenler ve çağrı merkezi çalışanlarında görülen [ses teli nodülü ve granülom](/blog/granulom-nedir-ses-teli-nodulu) tedavisi.
+İzmit’te dil ve konuşma terapisti arıyorsanız, randevu almadan önce merkezin konumunu ve yolculuk süresini kendi adresinize göre kontrol edin. KODİL, İzmit merkezde değil; Kartepe ilçesinde, Altek Plaza’da hizmet verir. İzmit’ten geliş süresi başlangıç noktanıza ve trafiğe göre değişir. [Haritada konumu açın](/kocaeli-dil-ve-konusma-terapisi) veya merkezden ulaşım bilgisi alın.
 
-İzmit dil terapisti arayışınızda çocuğunuzun gelişimini riske atmadan, alanında lisanslı ve tecrübeli [uzman kadromuzdan](/ekibimiz) destek alın. KODİL ailesi olarak sadece İzmit'e değil, tüm Kocaeli'ye en iyi standartlarda terapi sunmayı hedefliyoruz.
+## Dil ve konuşma terapisti hangi alanları değerlendirir?
+
+Dil ve konuşma terapisti; iletişim, dili anlama ve kullanma, konuşma sesleri ve akıcılık gibi alanları kişinin ihtiyacına göre değerlendirebilir. Bir belirti tek başına tanı koydurmaz; uygun değerlendirme ve izlenecek yol kişiye göre belirlenir. Çocuk gelişimiyle ilgili bir kaygınız varsa bunu çocuğunuzun doktoruyla da paylaşın.
+
+KODİL’in yayımlanmış ekip görevlerini [ekip sayfasında](/ekibimiz) inceleyebilirsiniz. Randevu öncesinde başvuru konusunu, değerlendirme adımlarını, ücret bilgisini ve merkezin konumunun size uygun olup olmadığını sorun. [Telefon ve randevu bilgileri](/kocaeli-dil-ve-konusma-terapisi) burada yer alır.
+
+Bu sayfa tanı veya tedavi sonucu vaadi değildir; genel bilgilendirme ve merkez konumunu açıklamak amacıyla hazırlanmıştır.
     `
   },
   {
@@ -404,21 +407,24 @@ KODİL'de yutma bozukluğu olan hastalarımıza özel postür (duruş) manevrala
   {
     id: '18',
     slug: 'ergoterapi-merkezi-secerken-nelere-dikkat-edilmeli',
-    title: 'Kocaeli Ergoterapi Merkezi Seçerken Nelere Dikkat Edilmeli?',
-    excerpt: 'Kocaeli ergoterapi ve duyu bütünleme merkezi ararken doğru uzmanı nasıl bulursunuz? KODİL Ergoterapi farkı.',
+    title: 'Kocaeli Ergoterapi: Kartepe’de Hizmet ve Randevu Bilgisi',
+    excerpt: 'Kocaeli’de ergoterapi arayanlar için ergoterapistin çalışma alanı, merkezin Kartepe konumu ve randevu öncesinde sorulabilecekler.',
     category: 'Ergoterapi',
     date: '20 Tem 2026',
     isoDate: '2026-07-20',
     keywords: ['kocaeli ergoterapi', 'kocaeli duyu bütünleme', 'ergoterapi merkezi', 'ergoterapist', 'kocaeli dil ve konuşma terapisti'],
     content: `
-Tıpkı "Kocaeli dil ve konuşma terapisti" ararken gösterdiğiniz titizliği, çocuğunuz için "Kocaeli ergoterapi" merkezi seçerken de göstermeniz gerekir. Ergoterapi, çocuğun bağımsız yaşam becerilerini, motor planlamasını ve [duyusal hassasiyetlerini](/blog/duyusal-hassasiyet-ve-duyu-butunleme) düzenleyen son derece kritik bir sağlık disiplinidir.
+## Ergoterapi hangi günlük yaşam alanlarıyla ilgilenir?
 
-### Ergoterapi Merkezi Seçim Kriterleri
-1. **Lisanslı Ergoterapist Şartı:** Terapiyi uygulayan kişinin 4 yıllık Ergoterapi veya İş ve Uğraşı Terapisi lisans mezunu olması yasal bir zorunluluktur. KODİL bünyesinde [sadece lisans mezunu uzmanlar](/ekibimiz) görev yapar.
-2. **Duyu Bütünleme Odasının Donanımı:** Salıncaklar, tırmanma duvarları, trambolinler, derin bası sağlayan materyallerin çocuğun güvenliğine uygun ve amaca yönelik tasarlanmış olması gerekir.
-3. **Ekip iletişimi:** Birden fazla uzmanla çalışan aileler, gerekli olduğunda uzmanlar arasında nasıl bilgi paylaşılacağını ve bunun aile onayıyla nasıl yürütüleceğini sorabilir. Ekip çalışması belirli bir sonuç veya başarı oranı garantilemez.
+Ergoterapi; kişinin günlük yaşam etkinliklerine, oyununa, okuluna ve toplumsal yaşama katılımını desteklemeye odaklanır. Görüşmede kişinin güçlü yönleri, zorlandığı etkinlikler ve ortamı ele alınır. Tek bir davranış veya duyusal tepki tanı koydurmaz; değerlendirme ve destek ihtiyacı kişiye göre belirlenir. [Duyusal hassasiyetler hakkında genel bilgiyi](/blog/duyusal-hassasiyet-ve-duyu-butunleme) ayrıca inceleyebilirsiniz.
 
-KODİL olarak Kocaeli'de ergoterapi ve dil konuşma terapisini aynı çatı altında, en güçlü altyapı ile sunmaktan gurur duyuyoruz. Daha fazla bilgi almak için [hizmetlerimiz](/kimlere-yardimci-oluyoruz) sayfasını inceleyebilirsiniz.
+## Kocaeli’de ergoterapi arayanlar için KODİL’in konumu
+
+KODİL, Kocaeli’nin Kartepe ilçesinde ergoterapi hizmeti sunar. İzmit veya başka bir ilçeden gelecekseniz randevu öncesinde adresi ve ulaşım süresini kontrol edin. Merkez, İzmit merkezde değildir. [Açık adresi, telefon numarasını ve randevu bilgilerini](/kocaeli-dil-ve-konusma-terapisi) inceleyebilirsiniz.
+
+Randevu öncesinde ergoterapistin görev ve eğitim bilgilerini, ilk görüşmede nelerin değerlendirileceğini, aile katılımının nasıl olacağını ve ücret/iptal koşullarını sorun. KODİL’in yayımlanmış ekip görevleri [ekip sayfasında](/ekibimiz) yer alır; kişisel eğitim ve uzmanlık bilgileri yalnız doğrulandığında paylaşılır.
+
+Ergoterapi her çocuk için aynı program veya sonuç anlamına gelmez. Uygun hizmet ve hedefler, kişinin ihtiyaçları ve uzman değerlendirmesi üzerinden konuşulmalıdır.
     `
   },
   {
@@ -444,22 +450,26 @@ KODİL merkezimizde dudak damak yarığı olan çocuklarda velofaringeal kaslar�
   {
     id: '20',
     slug: 'kocaeli-dil-ve-konusma-terapisti-seans-ucretleri',
-    title: 'Kocaeli Dil ve Konuşma Terapisti Ücretleri ve Seans Süreçleri',
-    excerpt: 'Kocaeli dil ve konuşma terapisti seans ücretleri ne kadar? Terapi süreci ne kadar sürer ve haftada kaç gün gelinmelidir?',
+    title: 'Kocaeli Dil Terapisi Seans Ücreti ve Randevu Öncesi Sorular',
+    excerpt: 'Dil ve konuşma terapisi seans ücretini ve değerlendirme ücretini KODİL’den güncel olarak öğrenin. Ücret, seans süresi ve iptal koşullarını randevu öncesi sorun.',
     category: 'Merkezimiz',
     date: '21 Tem 2026',
     isoDate: '2026-07-21',
     keywords: ['kocaeli dil ve konuşma terapisti ücretleri', 'dil terapisti seans ücretleri', 'konuşma terapisi fiyatları', 'kocaeli dil terapisti fiyat'],
     content: `
-KODİL'e başvuran ailelerin aklında genellikle iki büyük soru işareti vardır: "Terapiler ne kadar sürecek?" ve "Kocaeli dil ve konuşma terapisti seans ücretleri ne kadar?" Bu soruların sabit bir cevabı olmamakla birlikte, şeffaf terapi prensibimiz gereği süreçleri detaylandırmak istiyoruz.
+## Güncel seans ücreti nasıl öğrenilir?
 
-### Terapi Ne Kadar Sürer?
-Terapinin süresi çocuğun tanısına, yaşına ve ailenin sürece katılımına bağlı olarak tamamen değişir. Bir [ses teli granülomu](/blog/granulom-nedir-ses-teli-nodulu) veya mutasyonel falsetto bazen 3-4 seansta çözülebilirken; [apraksi](/blog/apraksi-nedir-belirtileri-ve-tedavisi), şiddetli [kekemelik](/blog/kocaeli-kekemelik-tedavisi-akici-konusma) veya [otizm spektrum bozukluğu](/blog/kocaeli-otizm-ve-dil-terapisi-yaklasimlarimiz) durumlarında terapi aylar hatta yıllar sürebilir.
+KODİL’in güncel dil ve konuşma terapisi seans ücreti bu sayfada yayımlanmamaktadır. Ücret bilgisi zamanla değişebileceği için randevu almadan önce merkezden doğrudan öğrenin. İlk değerlendirme ile takip görüşmelerinin ücretinin aynı olup olmadığını da sorun.
 
-### Kocaeli Dil Terapisti Ücret Politikamız
-Seans ücretleri, değerlendirme seansı ve standart takip seansları olarak farklılık gösterebilir. Uzman kadromuzun kıdemi ve spesifik uzmanlık alanları (örneğin yutma veya DIR Floortime) fiyatlandırmada etken olabilir. KODİL olarak amacımız, ulaşılabilir, sürdürülebilir ve en yüksek kalitede sağlık hizmetini sizlere sunmaktır.
+## Randevu öncesinde sorabileceğiniz konular
 
-Çocuğunuzun durumuna özel detaylı bilgi, değerlendirme süreci ve güncel seans ücretleri hakkında bilgi almak için randevu hattımız üzerinden [bizimle iletişime geçebilirsiniz](/iletisim).
+- İlk görüşme veya değerlendirme ücreti var mı?
+- Seansın süresi ve ücreti nedir; ödeme seçenekleri nelerdir?
+- İptal veya randevu değişikliği koşulları nelerdir?
+- Değerlendirme sonrasında hedefler ve takip sıklığı nasıl belirlenir?
+- Merkezin Kartepe’deki konumu ve size uygun randevu saatleri nedir?
+
+Görüşme sıklığı, süreç ve olası seans sayısı kişiye göre değişir; çevrimiçi içerikten tanı veya süre tahmini yapılamaz. KODİL’in Kartepe adresi ve telefonu [iletişim sayfasında](/kocaeli-dil-ve-konusma-terapisi) yer alır. Güncel fiyat ve randevu bilgisini telefonla teyit edebilirsiniz.
     `
   },
   {
